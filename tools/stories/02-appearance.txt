@@ -1,0 +1,56 @@
+@looks
+Grandma Liu goes to the barber shop every month.|刘奶奶每个月都去理发店。
+Today she wants a short {haircut}.|今天她想剪个短发。
+She has a lot of {grey hair} now.|她现在白头发很多了。
+Her hair is {curly}, so it takes a long time to wash.|她的头发是卷的，洗起来很费时间。
+The barber says, "You look so {young}!"|理发师说：“您看起来真年轻！”
+Her husband is waiting outside. He has a white {beard}.|她丈夫在外面等着，他留着白胡子。
+He is {bald}, so he never needs a haircut!|他是光头，从来不用理发！
+@clothes1
+It is getting cold, so Grandpa goes shopping for clothes.|天冷了，爷爷去买衣服。
+First he looks for a warm {jacket}.|他先找一件暖和的夹克。
+Then he tries on a grey {sweater}.|然后他试了一件灰色毛衣。
+He also needs new {socks}, because his old ones have holes.|他还需要新袜子，旧的都破洞了。
+For his grandson, he buys a red {T-shirt}.|他给孙子买了一件红色T恤。
+For the wedding next month, he chooses a dark {suit}.|为了下个月的婚礼，他挑了一套深色西装。
+At home, he puts on his {pajamas} and rests.|回到家，他换上睡衣休息。
+@clothes2
+Mrs. Wang goes to the tailor to buy a new dress.|王太太去裁缝店买新衣服。
+"What {size} do you wear?" asks the tailor.|“您穿多大号的？”裁缝问。
+"I usually wear a {medium}," she says.|“我一般穿中号。”她说。
+"Can I {try on} this blue one?"|“我能试穿这件蓝色的吗？”
+She goes into the {fitting room}.|她走进了试衣间。
+"Hmm, it is a little {tight} around the waist."|“嗯，腰这儿有点紧。”
+"And the {sleeve=sleeves} are too long," she says.|“而且袖子太长了。”她说。
+@clothes3
+It is a windy winter day.|这是一个刮风的冬日。
+Grandma puts on her {down jacket} before going out.|奶奶出门前穿上了羽绒服。
+She wears a warm {scarf} around her neck.|她脖子上围了一条暖和的围巾。
+She also puts on her {gloves} to keep her hands warm.|她还戴上手套保暖。
+At the mall, the coats are {on sale}.|商场里的大衣正在打折。
+She buys a soft {cardigan} for home.|她买了一件在家穿的软开衫。
+For her grandson, she buys a blue {hoodie}.|她给孙子买了一件蓝色连帽衫。
+@accessories
+Grandpa Zhao is going on a trip.|赵爷爷要去旅行了。
+He puts his money in his {wallet}.|他把钱放进钱包。
+He puts his {watch} on his wrist.|他把手表戴在手腕上。
+He can't read without his {glasses}.|他不戴眼镜就看不了字。
+It may rain, so he takes an {umbrella}.|可能会下雨，所以他带了一把伞。
+He puts everything in his {backpack}.|他把东西都放进双肩包。
+His wife gives him a clean {handkerchief}.|他太太递给他一块干净的手帕。
+@shoes
+Grandma's feet hurt, so she goes to the shoe shop.|奶奶脚疼，就去了鞋店。
+"I can't walk in {high heels} any more," she says.|“我再也穿不了高跟鞋了。”她说。
+The shop assistant shows her some {flat shoes}.|店员给她拿了几双平底鞋。
+"Are they {comfortable}?" he asks.|“舒服吗？”他问。
+She also buys a soft {insole} for her old boots.|她还给旧靴子买了一副软鞋垫。
+Then she buys {slippers} for home.|然后又买了一双在家穿的拖鞋。
+"Your {shoelace} is untied!" says the assistant, smiling.|“您的鞋带开了！”店员笑着说。
+@beauty
+On Friday, Mrs. Li goes to the beauty salon.|星期五，李太太去美容院。
+First she has a nice {massage}.|她先做了一个舒服的按摩。
+Then she has a {manicure}.|然后又修了指甲。
+She chooses pink {nail polish}.|她选了粉色的指甲油。
+She looks in the {mirror} and smiles.|她照照镜子，笑了。
+Before going out, she puts on {sunscreen}.|出门前，她抹上了防晒霜。
+Her husband says her {perfume} smells nice.|她丈夫说她的香水很好闻。

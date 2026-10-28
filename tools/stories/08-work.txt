@@ -1,0 +1,119 @@
+@atwork
+Before I retired, I worked in a bank for thirty years.|退休前，我在银行工作了三十年。
+My {boss} was very kind.|我的老板人很好。
+My {colleague=colleagues} were like family.|同事们就像家人一样。
+The {salary} was not high, but it was enough.|工资不高，但够用。
+My {commute} took one hour each way.|我上下班单程要一个小时。
+Sometimes I worked {overtime} at the end of the year.|年底有时候要加班。
+I got a {promotion} when I was forty.|四十岁那年我升职了。
+@office
+My daughter works in a busy office.|我女儿在一间忙碌的办公室工作。
+Every morning, the {phone} rings again and again.|每天早上电话响个不停。
+She puts each {document} in a blue {folder}.|她把每份文件都放进蓝色文件夹。
+The {printer} often runs out of paper.|打印机经常没纸。
+Today the {photocopier} is broken again.|今天复印机又坏了。
+She writes notes on a {sticky note}.|她把要做的事写在便利贴上。
+She puts old papers in the {shredder}.|她把旧文件放进碎纸机。
+@computers
+My granddaughter is teaching me to use a {laptop}.|孙女在教我用笔记本电脑。
+"First, turn it on and look at the {screen}."|“先开机，看着屏幕。”
+"Move the {mouse} and {click} here."|“移动鼠标，点这里。”
+"Now you can send an {email}."|“现在你可以发电子邮件了。”
+"This {app} lets you see the news."|“这个应用可以看新闻。”
+Every Sunday, we have a {video call} with my son.|每个星期天，我们和儿子视频通话。
+Don't forget to plug in the {charger}!|别忘了插充电器！
+@media
+Every morning, Grandpa reads the {newspaper}.|每天早上，爷爷都看报纸。
+He reads the {headline=headlines} first.|他先看标题。
+Then he reads an {article} about health.|然后读一篇关于健康的文章。
+At lunch, he listens to the {radio}.|午饭时，他听收音机。
+In the evening, he watches the {news} on TV.|晚上，他看电视新闻。
+Once, a {reporter} asked him some questions in the street.|有一次，一位记者在街上采访了他。
+His {interview} was on TV that night!|他的采访当晚就上了电视！
+@law
+My neighbor had a problem with his landlord.|我邻居和房东闹了点矛盾。
+He went to see a {lawyer}.|他去找了律师。
+The lawyer read the {contract} carefully.|律师仔细看了合同。
+"Do you have any {evidence}?" she asked.|“你有证据吗？”她问。
+"Know your {rights}," she said.|“要了解自己的权利。”她说。
+The case went to {court}.|案子上了法庭。
+The {judge} was fair, and my neighbor won.|法官很公正，我邻居赢了。
+@farming
+My uncle lives on a {farm} in the countryside.|我叔叔住在乡下的农场。
+He is a {farmer}, like his father.|他和他父亲一样是农民。
+In spring, he drives his {tractor} in the {field}.|春天，他开着拖拉机在田里干活。
+Rice grows in the {paddy field} near the river.|河边的稻田里种着水稻。
+A {scarecrow} keeps the birds away.|稻草人把鸟赶走。
+He also has an apple {orchard}.|他还有一片苹果园。
+He grows {organic} vegetables and sells them in town.|他种有机蔬菜，拿到镇上去卖。
+@construction
+They are building a new hospital near our home.|我们家附近在盖一家新医院。
+Every {worker} wears a {hard hat}.|每个工人都戴着安全帽。
+A huge {crane} lifts the steel.|一台巨大的起重机吊起钢材。
+My grandson loves to watch the {digger}.|我孙子喜欢看挖掘机。
+They mix {cement} in a big truck.|他们在大卡车里搅拌水泥。
+Don't walk under the {scaffolding}.|不要从脚手架下面走。
+The {jackhammer} is very loud in the morning.|早上风钻声特别吵。
+@military
+My grandfather is a {veteran}.|我爷爷是一位老兵。
+He was a {soldier} in the {army}.|他曾是陆军的一名士兵。
+He has a {medal} on his old jacket.|他的旧外套上别着一枚勋章。
+Every National Day, he watches the {parade} on TV.|每年国庆，他都在电视上看阅兵。
+When he sees the {flag}, he stands up.|看到国旗时，他会站起来。
+He teaches my grandson how to {salute}.|他教我孙子怎么敬礼。
+@jobs1
+In our family, everyone has a different job.|我们家每个人的职业都不一样。
+My son is an {engineer}.|我儿子是工程师。
+My daughter is an {accountant}.|我女儿是会计。
+My brother was a {pilot} for twenty years.|我哥哥当了二十年飞行员。
+My cousin is a {tour guide} and speaks three languages.|我表哥是导游，会说三种语言。
+My uncle is a {mechanic} and can fix any car.|我叔叔是修车师傅，什么车都能修。
+And my granddaughter wants to be a {scientist}.|我孙女想当科学家。
+@jobs2
+Many people help our community.|很多人在为我们的社区服务。
+The {gardener} cuts the grass in the park.|园丁修剪公园的草坪。
+The {librarian} helps us find books.|图书管理员帮我们找书。
+The {vet} looks after our dog.|兽医照顾我们的狗。
+The {delivery driver} brings our parcels.|快递员给我们送包裹。
+The {photographer} took our family photo.|摄影师给我们拍了全家福。
+The {tailor} made my son's wedding suit.|裁缝给我儿子做了婚礼西装。
+@industries
+My son works for a big {company} in Shanghai.|我儿子在上海一家大公司工作。
+The {headquarters} is on the 30th floor.|总部在三十楼。
+He works in the {sales} {department}.|他在销售部工作。
+His wife works in {marketing}.|他妻子做市场营销。
+If there is a problem, they call {customer service}.|有问题时，他们打客服电话。
+{Tourism} is also very important in their city.|旅游业在他们城市也很重要。
+I worked in {education} for forty years.|我在教育行业干了四十年。
+@apply
+My granddaughter is looking for her first job.|我孙女在找第一份工作。
+She saw a {job advert} online.|她在网上看到一则招聘广告。
+She wrote her {resume} and a {cover letter}.|她写了简历和求职信。
+She filled in the {application form}.|她填了申请表。
+The {deadline} was Friday, so she sent it on Thursday.|截止日期是周五，她周四就交了。
+Last week she had an {interview}.|上周她去面试了。
+Today they called: they want to {hire} her!|今天他们打电话来：要录用她！
+@skills
+At our community center, there is a computer class for seniors.|我们社区中心有一个老年人电脑班。
+The teacher says, "It's never too late to {learn}."|老师说：“学习永远不晚。”
+"Our {goal} is to send an email by Friday."|“我们的目标是周五前会发电子邮件。”
+"Let's work as a {team}."|“我们一起合作。”
+"If there is a {problem}, ask me."|“有问题就问我。”
+"We will {solve} it together."|“我们一起解决。”
+"Please be {punctual} and come at nine."|“请准时，九点到。”
+@money
+Grandpa is careful with money.|爷爷花钱很仔细。
+He lives on his {pension}.|他靠退休金生活。
+He tries to {save} a little every month.|他每个月都尽量存一点钱。
+He keeps his {savings} in the bank.|他把积蓄存在银行里。
+The {interest} is low, but it is safe.|利息不高，但很安全。
+He has no {debt}.|他没有欠债。
+When a stranger calls about money, he says, "This is a {scam}!"|有陌生人打电话谈钱，他就说：“这是骗局！”
+@meeting
+The community has a {meeting} every month.|社区每个月开一次会。
+First, the chairwoman reads the {agenda}.|主席先读议程。
+She speaks into the {microphone}.|她对着麦克风讲话。
+Then she shows a {chart} on the {projector}.|然后她用投影仪展示一张图表。
+Mr. Li gives a short {presentation} about the new park.|李先生就新公园做了一个简短的展示。
+We {discuss} it for half an hour.|我们讨论了半个小时。
+Then we {vote}: everyone agrees!|然后我们投票：大家都同意！

@@ -1,0 +1,88 @@
+@roads
+Last Sunday, my son drove us to the seaside.|上周日，儿子开车带我们去海边。
+First we took the {highway}.|我们先上了高速公路。
+At the exit, we had to pay a {toll}.|在出口我们得交过路费。
+Then we were stuck in a {traffic jam} for an hour.|然后我们堵车堵了一个小时。
+We drove through a long {tunnel} under the hill.|我们穿过山下一条长长的隧道。
+"Look at the {road sign}: the {speed limit} is 60," I said.|“看路标：限速六十。”我说。
+At the {intersection}, he had to {turn left}.|在十字路口，他得左转。
+@cars1
+My son wants to buy a new {car}.|我儿子想买一辆新车。
+The salesman lets him {drive} it around the block.|销售员让他开着绕街区一圈。
+"First, fasten your {seat belt}," the salesman says.|“先系好安全带。”销售员说。
+"Hold the {steering wheel} with both hands."|“双手握住方向盘。”
+The {engine} is very quiet.|发动机很安静。
+"Press the {brake} gently."|“轻轻踩刹车。”
+I put my bag in the big {trunk}: it fits!|我把包放进宽大的后备箱：放得下！
+@cars2
+On the way home, a {warning light} came on.|回家路上，一个警示灯亮了。
+Then we heard a bang: a {flat tire}!|然后砰的一声：爆胎了！
+"Don't worry, we have a {spare tire}," said my son.|“别担心，我们有备胎。”儿子说。
+He used the {jack} to lift the car.|他用千斤顶把车顶起来。
+After that, we were low on {fuel}.|后来，我们的油也不多了。
+At the gas station, he said, "{Fill up}, please."|在加油站，他说：“加满。”
+Next week, the car needs a {service}.|下周，车该保养了。
+@buses
+Every morning, I take the {bus} to the market.|每天早上，我坐公交车去市场。
+I {get on} at the stop near my home.|我在家附近的车站上车。
+I show my {senior card}, so I don't pay the {fare}.|我出示老年卡，所以不用付车费。
+A young man gives me the {priority seat}.|一位年轻人把爱心座位让给我。
+I ask the {bus driver}, "Is the market the {next stop}?"|我问公交司机：“下一站是市场吗？”
+"Yes. {Get off} there," he says with a smile.|“对，在那儿下车。”他笑着说。
+@motorcycles
+My son rides a {motorcycle} to work.|我儿子骑摩托车上班。
+He always wears a {crash helmet} and closes the {visor}.|他总是戴着摩托头盔，放下面罩。
+Sometimes I am his {passenger}.|有时候我坐他的车。
+"Hold on tight!" he says, and he turns the {throttle} gently.|“抓紧！”他说着轻轻转动油门。
+I look at the {speedometer}: we're not going too fast.|我看了看速度表：车速不快。
+When we stop, he puts down the {kickstand}.|停车时，他放下支架。
+"Don't touch the {exhaust pipe}! It's hot."|“别碰排气管！很烫。”
+@cycling
+I ride my {bicycle} to the park every day.|我每天骑自行车去公园。
+I always ride in the {bike lane}.|我总是在自行车道上骑行。
+When people are in the way, I ring my {bell}.|有人挡路时，我按车铃。
+Yesterday, I had a {puncture}.|昨天我的车胎扎破了。
+Luckily, a {cyclist} lent me a {pump}.|幸好一位骑车人借给我一个打气筒。
+Then the {chain} came off!|接着链条又掉了！
+Now I want an {electric bike}.|现在我想买一辆电动自行车。
+@trains
+We are going to Beijing by {high-speed train}.|我们要坐高铁去北京。
+I bought a {round-trip ticket} at the {ticket office}.|我在售票处买了往返票。
+I check the {timetable}: the train {leave=leaves} at nine.|我看了看时刻表：火车九点出发。
+"Which {platform}?" I ask.|“哪个站台？”我问。
+We are in {carriage} 5.|我们在五号车厢。
+At lunch, we eat in the {dining car}.|午饭我们在餐车吃。
+We {arrive} in Beijing at two.|我们两点到达北京。
+@aircraft
+This summer, I flew to London to see my daughter.|今年夏天，我飞去伦敦看女儿。
+It was a long {flight}: eleven hours.|那是一趟很长的航班：十一个小时。
+I had a {window seat} by the {wing}.|我坐在机翼旁边的靠窗座位。
+I put my bag in the {overhead locker}.|我把包放进行李架。
+Soon the plane began to {take off}.|很快，飞机开始起飞了。
+Over the sea, we hit some {turbulence}.|在海上空，我们遇到了一些颠簸。
+The {flight attendant} gave me some water.|空乘给了我一些水。
+When we {land=landed}, I had terrible {jet lag}.|落地后，我倒时差很难受。
+@airport
+At the airport, I look for my {gate}.|在机场，我找自己的登机口。
+First, I {check in} and get my {boarding pass}.|我先办理登机，拿到登机牌。
+Then I go through the {security check}.|然后我过安检。
+Oh no! There is a two-hour {delay}.|哎呀！航班延误两小时。
+I walk around the {duty-free} shop.|我在免税店里逛逛。
+After landing, I wait at {baggage claim}.|落地后，我在行李提取处等行李。
+My {suitcase} is the last one!|我的行李箱是最后一个！
+@ships
+Last year, we went on a {cruise ship}.|去年，我们坐了一次游轮。
+The {captain} welcomed us on board.|船长欢迎我们登船。
+In the evening, we went up on {deck}.|晚上，我们上到甲板。
+We saw a white {sailboat} near the coast.|我们在海岸附近看到一艘白色帆船。
+The sea was rough, and I felt {seasick}.|海浪很大，我晕船了。
+At the island, the ship dropped its {anchor}.|到了岛上，船抛了锚。
+We went to the beach in a small {boat}.|我们坐小船上了沙滩。
+@port
+My grandson and I like to walk by the {harbor}.|我和孙子喜欢在海港边散步。
+We walk to the end of the {pier}.|我们走到码头的尽头。
+We count the {container=containers} on the big ships.|我们数大船上的集装箱。
+The ships carry {cargo} all over the world.|这些船把货物运往世界各地。
+At night, the {fishing boat=fishing boats} come back.|晚上，渔船回来了。
+The {lighthouse} shows them the way.|灯塔为他们指路。
+The {tide} is coming in, so we go home.|涨潮了，我们就回家。

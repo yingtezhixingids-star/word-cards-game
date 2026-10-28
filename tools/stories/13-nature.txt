@@ -1,0 +1,112 @@
+@naturalhistory
+I took my grandson to the natural history museum.|我带孙子去了自然历史博物馆。
+In the big hall, there was a huge {dinosaur}.|大厅里有一只巨大的恐龙。
+"That's a {T. rex}!" he shouted.|“那是霸王龙！”他喊道。
+Look at its long {tail} and sharp {claw=claws}!|看它长长的尾巴和锋利的爪子！
+Dinosaurs are {extinct} now.|恐龙现在已经灭绝了。
+In the next room, we saw a {mammoth} from the {Ice Age}.|隔壁展厅，我们看到了冰河时代的猛犸象。
+We also saw a dinosaur {footprint} in stone.|我们还看到了石头上的恐龙脚印。
+@mammals1
+On Sunday, we took the grandchildren to the zoo.|星期天，我们带孙子孙女去了动物园。
+First, we saw the {panda=pandas} eating bamboo.|我们先看了熊猫吃竹子。
+The {giraffe} had a very long neck.|长颈鹿的脖子很长。
+The {elephant} was washing itself with water.|大象在用水洗澡。
+The {monkey=monkeys} were jumping and playing.|猴子们跳来跳去地玩耍。
+The {lion} was sleeping in the sun.|狮子在太阳下睡觉。
+The {kangaroo} was carrying a baby!|袋鼠还带着一只小宝宝！
+@mammals2
+Behind our house, there is a small wood.|我们家后面有一片小树林。
+In the morning, a {squirrel} runs up the tree.|早上，一只松鼠爬上树。
+At night, a {hedgehog} comes to our garden.|晚上，一只刺猬来到我们院子。
+A {bat} flies around the street lamp.|一只蝙蝠绕着路灯飞。
+A {mouse} lives under the shed.|一只老鼠住在棚子底下。
+My grandson says, "I want to see a {red panda}!"|孙子说：“我想看小熊猫！”
+"Or a {koala}!"|“或者考拉！”
+@birds1
+Every morning, I walk in the park and listen to the birds.|每天早上，我在公园散步，听鸟叫。
+A {sparrow} is looking for food.|一只麻雀在找吃的。
+A {magpie} is sitting on the wall.|一只喜鹊坐在墙上。
+In China, the magpie brings good news.|在中国，喜鹊报喜。
+A {woodpecker} is knocking on a tree.|一只啄木鸟在敲树。
+There is a {nest} in the tree, with baby birds.|树上有个鸟窝，里面有雏鸟。
+On the lake, a white {swan} swims slowly.|湖面上，一只白天鹅慢慢游着。
+@birds2
+In spring, many birds come back from the south.|春天，很多鸟从南方回来。
+Birds {migrate} every year.|鸟每年都迁徙。
+A {swallow} built a nest under our roof.|一只燕子在我们屋檐下筑了巢。
+By the river, a {heron} stands very still.|河边，一只鹭一动不动地站着。
+A blue {kingfisher} dives for fish.|一只蓝色的翠鸟俯冲下去捉鱼。
+In the wetland, we saw a red-crowned {crane}.|在湿地，我们看到了一只丹顶鹤。
+High in the sky, a {hawk} is flying.|高高的天空中，一只鹰在飞。
+@insects
+In summer, my granddaughter plays in the garden.|夏天，孙女在花园里玩。
+She sees a beautiful {butterfly}.|她看到一只美丽的蝴蝶。
+A {bee} is visiting the flowers.|一只蜜蜂在采花。
+A red {ladybug} is on a leaf.|一只红色的瓢虫停在叶子上。
+A green {caterpillar} is eating the leaf.|一条绿色的毛毛虫在吃叶子。
+A {dragonfly} flies over the pond.|一只蜻蜓飞过池塘。
+In the evening, a {mosquito} bites her arm!|晚上，一只蚊子叮了她的胳膊！
+@reptiles
+There is a small pond in our park.|我们公园里有一个小池塘。
+In spring, there are many {tadpole=tadpoles} in the water.|春天，水里有很多蝌蚪。
+Soon, they become little {frog=frogs}.|很快，它们就变成了小青蛙。
+An old {turtle} sits on a rock in the sun.|一只老乌龟在石头上晒太阳。
+My grandson saw a {snake} in the grass!|我孙子在草丛里看到一条蛇！
+But it was only a small {lizard}.|不过只是一只小蜥蜴。
+"Look at its {scales}," he said.|“看它的鳞片。”他说。
+@pets
+Last month, we got a {puppy} for the family.|上个月，我们家养了一只小狗。
+Every morning, I {walk the dog} in the park.|每天早上，我在公园遛狗。
+I always use a {leash}.|我总是用狗绳。
+I {feed} him twice a day.|我每天喂他两次。
+We buy {pet food} at the supermarket.|我们在超市买宠物食品。
+The cat is not happy about the new {pet}!|猫对这个新宠物可不高兴！
+My granddaughter also has a {goldfish}.|我孙女还养了一条金鱼。
+@farmanimals
+When I was young, I lived on a farm.|我年轻时住在农场。
+Every morning, the {rooster} woke us up.|每天早上，公鸡把我们叫醒。
+I collected eggs from the {hen=hens}.|我从母鸡那里捡鸡蛋。
+My father milked the {cow}.|父亲给奶牛挤奶。
+The {pig} was always hungry.|那头猪总是饿。
+The {sheepdog} looked after the {sheep}.|牧羊犬看管着羊群。
+We used a {donkey} to carry things.|我们用一头驴运东西。
+@ocean
+We took the grandchildren to the {aquarium}.|我们带孙子孙女去了海洋馆。
+In a big tank, a {shark} swam past us.|大水箱里，一条鲨鱼从我们身边游过。
+We saw colorful {coral} and {tropical fish}.|我们看到了五彩的珊瑚和热带鱼。
+An {octopus} was hiding in a rock.|一只章鱼躲在石头里。
+The {jellyfish} looked like little lamps.|水母看起来像小灯笼。
+Then we watched the {dolphin=dolphins} jump.|然后我们看海豚跳跃。
+A {sea lion} clapped its flippers!|一只海狮拍起了鳍状肢！
+@trees1
+In our park, there is a very old {tree}.|我们公园里有一棵很老的树。
+It is a {ginkgo}, more than three hundred years old.|那是一棵银杏，有三百多年了。
+Its {tree trunk} is very thick.|它的树干非常粗。
+Its {bark} is rough.|它的树皮很粗糙。
+Its {root=roots} are deep in the ground.|它的根深深扎在地下。
+In autumn, its {fallen leaves} are golden.|秋天，它的落叶金黄金黄的。
+Children love to sit under its big {branch=branches}.|孩子们喜欢坐在它的大树枝下。
+@trees2
+My wife grows flowers on our balcony.|我老伴在阳台上种花。
+In spring, a small {bud} appears.|春天，冒出一个小花苞。
+A week later, the flowers {bloom}.|一周后，花开了。
+Each {petal} is soft and pink.|每一片花瓣都柔软粉嫩。
+Be careful of the {thorn=thorns} on the roses!|小心玫瑰上的刺！
+She also grows a {lotus} in a big pot.|她还在一个大盆里种了荷花。
+A green {vine} climbs up the wall.|一根绿色的藤爬上了墙。
+@trees3
+Every season, our park has different colors.|我们公园每个季节颜色都不一样。
+In winter, the {plum blossom} opens in the snow.|冬天，梅花在雪中开放。
+In spring, the {azalea=azaleas} are red and pink.|春天，杜鹃花红红粉粉的。
+In summer, white {jasmine} smells sweet.|夏天，白色的茉莉花香甜。
+In autumn, the {osmanthus} fills the air.|秋天，桂花香飘满园。
+The tall {birch} trees turn yellow.|高高的白桦树变黄了。
+My grandson collects {pine cone=pine cones} on the ground.|孙子在地上捡松果。
+@fungi
+After the rain, Grandma and I go to the forest.|雨后，我和奶奶去树林。
+We {forage} for wild mushrooms.|我们去采野生蘑菇。
+The ground is {damp}.|地面很潮湿。
+Grandma knows which ones are {edible}.|奶奶知道哪些能吃。
+"Never eat that red one. It's {poisonous}!"|“千万别吃那个红的。有毒！”
+We also find some {wood ear} on an old tree.|我们还在一棵老树上找到一些木耳。
+At home, she cooks soup with {shiitake}.|回家后，她用香菇煮汤。

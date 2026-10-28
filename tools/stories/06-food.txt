@@ -1,0 +1,168 @@
+@eating
+After the long walk, Grandpa came home.|散步很久后，爷爷回到了家。
+"I'm so {hungry}!" he said.|“我好饿！”他说。
+"And I'm {thirsty}, too."|“而且我也渴了。”
+Grandma gave him a cup of hot {tea}.|奶奶给他倒了一杯热茶。
+Then she brought a bowl of chicken {soup}.|然后她端来一碗鸡汤。
+"It's {delicious}, but a bit {salty}," he said.|“很好喝，就是有点咸。”他说。
+After two bowls, he said, "I'm {full}, thank you."|喝了两碗后，他说：“我饱了，谢谢。”
+@meat
+Grandma goes to the {butcher} every Saturday.|奶奶每个星期六都去肉铺。
+"Half a kilo of {pork}, please."|“请给我半斤猪肉。”
+"I need {minced meat} for dumplings."|“我包饺子要肉馅。”
+"And some {ribs} for soup."|“再要点排骨煲汤。”
+"My grandson loves {chicken wings}."|“我孙子爱吃鸡翅。”
+"Is this {beef} fresh?"|“这牛肉新鲜吗？”
+"I want {lean} meat, not fat."|“我要瘦肉，不要肥的。”
+@seafood
+Grandpa loves the fish market by the sea.|爷爷很喜欢海边的鱼市。
+He always asks, "Is this fish {fresh}?"|他总是问：“这鱼新鲜吗？”
+Today he buys some big {shrimp}.|今天他买了些大虾。
+In autumn, the {crab=crabs} are very good.|秋天的螃蟹特别好。
+He also buys a piece of {salmon}.|他还买了一块三文鱼。
+{Lobster} is too expensive for him.|龙虾对他来说太贵了。
+At dinner, Grandma says, "Be careful of the {fish bone=fish bones}."|吃饭时，奶奶说：“小心鱼刺。”
+@veg1
+Farmer Liu sells vegetables at the market.|刘大叔在市场卖蔬菜。
+"The {tomato=tomatoes} are on sale today!"|“今天西红柿打折！”
+"These {potato=potatoes} are from my farm."|“这些土豆是我自己地里种的。”
+"{Carrot=Carrots} are good for your eyes."|“胡萝卜对眼睛好。”
+"Try this {spinach}, it's very fresh."|“尝尝这菠菜，很新鲜。”
+"{Celery} is good for blood pressure."|“芹菜对血压好。”
+Grandma buys a {cabbage} and goes home happy.|奶奶买了一棵卷心菜，高高兴兴回家了。
+@veg2
+In winter, Grandma likes to make warm soups.|冬天，奶奶喜欢做暖暖的汤。
+She makes {radish} soup with beef.|她用牛肉炖萝卜汤。
+She also makes {lotus root} soup with ribs.|她还用排骨炖莲藕汤。
+She stir-fries the {bok choy} with garlic.|她用蒜炒小白菜。
+She buys {bean sprouts} for the noodles.|她买豆芽配面条。
+Chinese {yam} is healthy, so she steams it.|山药很健康，她就蒸着吃。
+In spring, the {bamboo shoot=bamboo shoots} are fresh.|春天的竹笋很新鲜。
+@fruit
+Summer is the best time for fruit.|夏天是吃水果最好的季节。
+Grandpa cuts a big {watermelon}.|爷爷切了一个大西瓜。
+The {peach=peaches} are soft and sweet.|桃子又软又甜。
+My granddaughter picks {strawberry=strawberries} in the garden.|孙女在园子里摘草莓。
+This {mango} is very sweet.|这个芒果很甜。
+Is the {banana} {ripe} yet?|香蕉熟了吗？
+For a cough, Grandma eats a {pear}.|咳嗽时，奶奶就吃个梨。
+@nuts
+Before Spring Festival, we buy nuts and dried fruit.|春节前，我们买坚果和干果。
+{Walnut=Walnuts} are good for the brain.|核桃对大脑好。
+Roasted {chestnut=chestnuts} smell great.|烤栗子闻着真香。
+My grandson loves {cashew=cashews}.|我孙子爱吃腰果。
+Grandma puts {red date=red dates} in her tea.|奶奶在茶里放红枣。
+{Lychee=Lychees} come from the south.|荔枝来自南方。
+In autumn, the {persimmon=persimmons} on the tree are ripe.|秋天，树上的柿子熟了。
+@herbs
+Grandma is cooking braised pork.|奶奶在做红烧肉。
+First she adds some {ginger} and {garlic}.|她先放了些姜和蒜。
+Then she adds {star anise} and a little cinnamon.|然后放八角和一点桂皮。
+She doesn't add {chili}, because Grandpa can't eat it.|她不放辣椒，因为爷爷吃不了辣。
+She adds {pepper} at the end.|最后撒点胡椒。
+She puts some {green onion} on top.|她在上面撒了点葱花。
+My son doesn't like {coriander}, so she leaves it out.|我儿子不爱吃香菜，她就没放。
+@pantry
+Our kitchen cupboard is almost empty.|我们的橱柜快空了。
+We need a bag of {rice}.|需要一袋大米。
+We need {flour} for dumplings.|包饺子需要面粉。
+We are out of {cooking oil}.|食用油用完了。
+We need {soy sauce} and {vinegar}.|还需要酱油和醋。
+Grandpa wants {honey} for his tea.|爷爷想在茶里加点蜂蜜。
+And the kids want {cereal} for breakfast.|孩子们早餐想吃麦片。
+@dairy
+Every morning, Grandpa has a simple breakfast.|每天早上，爷爷吃一顿简单的早餐。
+He drinks a glass of {milk}.|他喝一杯牛奶。
+He eats one boiled {egg}.|他吃一个煮鸡蛋。
+He puts {butter} on his bread.|他在面包上抹黄油。
+He also has a cup of {yogurt}.|他还吃一杯酸奶。
+Grandma can't eat {dairy}, so she drinks {soy milk}.|奶奶不能吃乳制品，所以喝豆浆。
+In the afternoon, the kids have {ice cream}.|下午，孩子们吃冰淇淋。
+@bakery1
+There is a bakery near our home.|我家附近有一家面包店。
+The {baker} gets up at four every morning.|面包师每天早上四点起床。
+We buy a {loaf} of bread for the week.|我们买一条面包够吃一周。
+Whole wheat {bread} is healthier.|全麦面包更健康。
+My grandson wants a {doughnut}.|我孙子想要一个甜甜圈。
+Grandma likes the {bun} with red bean paste.|奶奶喜欢豆沙小圆面包。
+Grandpa likes apple {pie} best.|爷爷最爱吃苹果派。
+@bakery2
+It is my grandson's birthday tomorrow.|明天是我孙子的生日。
+We ordered a big {birthday cake}.|我们订了一个大生日蛋糕。
+It has lots of {icing} on top.|上面有很多糖霜。
+We will put seven {candle=candles} on it.|我们要插七根蜡烛。
+The kids also love {cupcake=cupcakes}.|孩子们也爱吃纸杯蛋糕。
+Grandma makes {egg tart=egg tarts} at home.|奶奶在家做蛋挞。
+They are best when hot, just like {cream puff=cream puffs}.|它们和泡芙一样，热的时候最好吃。
+@deli
+Grandma doesn't want to cook tonight.|奶奶今晚不想做饭。
+She goes to the deli and buys half a {roast duck}.|她去熟食店买了半只烤鸭。
+She buys some crispy {spring roll=spring rolls}.|她买了些脆脆的春卷。
+She buys a plate of {cold cuts}.|她买了一盘冷切肉。
+She asks for {sliced} ham for breakfast.|她要了些切片火腿当早餐。
+She also buys {pickles} to go with rice porridge.|她还买了配粥的腌菜。
+"Is the chicken {cooked}?" she asks.|“这鸡肉是熟的吗？”她问。
+@cafe1
+Grandpa and I meet at the café on Sunday.|星期天我和爷爷在咖啡馆见面。
+He orders a {cappuccino}.|他点了一杯卡布奇诺。
+I order a cup of {green tea}.|我点了一杯绿茶。
+My granddaughter wants {milk tea}.|孙女想喝奶茶。
+Grandpa says, "{Espresso} is too strong for me."|爷爷说：“浓缩咖啡对我来说太浓了。”
+In the evening, he only drinks {decaf}.|晚上他只喝无咖啡因的。
+We get our drinks {to go} and walk in the park.|我们把饮料打包带走，去公园散步。
+@cafe2
+The café is busy today. "{Table for two}, please."|今天咖啡馆很忙。“请给我们两人桌。”
+We have to join the {queue}.|我们得排队。
+"Please {order} at the {counter}," says the waiter.|“请到柜台点单。”服务员说。
+Grandma orders a {sandwich}.|奶奶点了一个三明治。
+"What's the {password} for the Wi-Fi?"|“无线网密码是多少？”
+It's sunny, so we sit {outside}.|天气晴朗，我们坐在外面。
+Grandpa asks for a {teaspoon} for his sugar.|爷爷要了一把茶匙加糖。
+@candy
+Grandma has a {sweet tooth}.|奶奶爱吃甜食。
+She keeps {candy} in a jar for the kids.|她在罐子里放糖果给孩子们吃。
+She loves dark {chocolate}.|她喜欢黑巧克力。
+On hot days, she buys {popsicle=popsicles}.|天热时，她买冰棍。
+When her throat hurts, she has a {hard candy}.|嗓子疼时，她含一颗硬糖。
+At the fair, the kids buy {cotton candy}.|在集市上，孩子们买棉花糖。
+But too much sugar is bad for teeth, so no {chewing gum}!|可是糖吃多了伤牙，所以不许嚼口香糖！
+@bar
+Grandpa meets his old friends at the {pub}.|爷爷在酒馆和老朋友们聚会。
+He orders a cold {beer}.|他点了一杯冰啤酒。
+His friend drinks {whisky} {on the rocks}.|他朋友喝加冰块的威士忌。
+Another friend has a glass of {red wine}.|另一位朋友喝红酒。
+Grandpa's doctor says he should drink {non-alcoholic} beer.|爷爷的医生说他该喝无酒精啤酒。
+They all lift their glasses: "{Cheers}!"|大家举杯：“干杯！”
+Nobody gets {drunk}; they go home early.|没人喝醉，他们早早就回家了。
+@restaurant
+For our anniversary, we go to a nice restaurant.|结婚纪念日，我们去了一家不错的餐厅。
+"I have a {reservation} for two," I say.|“我订了两个人的位子。”我说。
+The waiter brings the {menu}.|服务员拿来了菜单。
+"What do you {recommend}?" I ask.|“您推荐什么？”我问。
+"{Today's special} is fish," he says.|“今日特价菜是鱼。”他说。
+For {dessert}, we have mango pudding.|甜点我们吃了芒果布丁。
+At the end, I ask for the {bill}.|最后，我叫服务员结账。
+@fastfood
+My grandson loves fast food.|我孙子爱吃快餐。
+He wants a {hamburger} and large {fries}.|他要一个汉堡和大份薯条。
+He orders the number one {combo meal}.|他点了一号套餐。
+He also wants six chicken {nuggets}.|他还要六块鸡块。
+"For here or to go?" "{For here}, please."|“在这儿吃还是带走？”“在这儿吃。”
+Grandma says {instant noodles} are not healthy either.|奶奶说方便面也不健康。
+Next time, we will order {delivery} and eat at home.|下次我们叫外卖在家吃。
+@breakfast
+On Sunday, the family goes out for breakfast.|星期天，一家人出去吃早餐。
+Grandpa has {porridge} and a {boiled egg}.|爷爷吃粥和煮鸡蛋。
+Grandma has {fried dough stick=fried dough sticks} with soy milk.|奶奶吃油条配豆浆。
+My son orders two pork {stuffed bun=stuffed buns}.|我儿子点了两个猪肉包子。
+My grandson wants {pancake=pancakes} with honey.|我孙子想吃淋蜂蜜的薄煎饼。
+We all drink fresh {orange juice}.|我们都喝鲜榨橙汁。
+The hotel has a big breakfast {buffet}, but this place is cheaper.|酒店有丰盛的自助早餐，但这里更便宜。
+@dinner
+"Grandma, what's for {dinner}?" asks my grandson.|“奶奶，晚饭吃什么？”孙子问。
+"Tonight we are having {hot pot}!"|“今晚吃火锅！”
+"Can we make {dumplings}, too?"|“我们还能包饺子吗？”
+He helps me {set the table}.|他帮我摆餐具。
+He eats a lot and asks for {seconds}.|他吃了很多，还要再来一份。
+"I love {home-cooked} food," he says.|“我最爱吃家常菜。”他说。
+We will eat the {leftovers} tomorrow.|剩饭菜我们明天吃。

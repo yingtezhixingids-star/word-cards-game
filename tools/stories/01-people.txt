@@ -1,0 +1,88 @@
+@body
+Grandma Wang goes to see the nurse.|王奶奶去找护士看病。
+She says her {neck} feels stiff after sleeping.|她说睡了一觉，脖子发僵。
+Her left {ear} also hurts a little.|她的左耳也有点疼。
+The nurse asks her to open her {mouth}.|护士让她张开嘴。
+Then she checks Grandma's {back} and shoulders.|然后护士检查了奶奶的背和肩膀。
+"Your {knee} is swollen, too," the nurse says.|“您的膝盖也有点肿。”护士说。
+"Rest your {leg=legs} and walk slowly," she adds.|“让腿休息一下，慢慢走。”她补充道。
+@hands
+Mr. Zhou cut his finger while cooking.|周先生做饭时切到了手指。
+He held up his {hand} to show the doctor.|他举起手给医生看。
+The cut was on his {index finger}.|伤口在他的食指上。
+His {wrist} hurt too, because he fell on it.|他的手腕也疼，因为他摔倒时撑了一下。
+The doctor wrapped it and said, "Make a {fist} slowly."|医生包扎好，说：“慢慢握个拳头。”
+"Can you move your {thumb}?"|“大拇指能动吗？”
+Mr. Zhou smiled and said his {palm} did not hurt at all.|周先生笑着说他的手掌一点都不疼。
+@skeleton
+Uncle Liu fell down the stairs last week.|刘叔叔上周从楼梯上摔了下来。
+The doctor said he needed an {X-ray}.|医生说他需要拍X光片。
+The picture showed that one {rib} was broken.|片子显示有一根肋骨断了。
+His {elbow} was also badly bruised.|他的手肘也伤得不轻。
+"Your {bone=bones} are not as strong as before," said the doctor.|“您的骨头不像以前那么结实了。”医生说。
+"Drink milk, and exercise to keep your {muscle=muscles} strong."|“多喝牛奶，多锻炼，让肌肉保持有力。”
+"Keep your {spine} straight when you sit."|“坐着的时候要保持脊柱挺直。”
+@organs
+Grandpa Chen had his yearly check-up today.|陈爷爷今天做了年度体检。
+First the doctor listened to his {heart}.|医生先听了他的心脏。
+Then she checked his {pulse} and blood pressure.|然后量了他的脉搏和血压。
+"Do you smoke? It is bad for your {lung=lungs}."|“您抽烟吗？抽烟伤肺。”
+"Too much wine is also bad for the {liver}."|“喝太多酒对肝也不好。”
+They took some {blood} for a test.|他们抽了一点血做化验。
+"Doing puzzles will keep your {brain} active," she said.|“多做做智力题能让大脑保持活跃。”她说。
+@family
+It is Sunday, and the whole family is at home.|今天是星期天，全家人都在家。
+My {wife} is cooking dumplings in the kitchen.|我妻子在厨房包饺子。
+My {son} and {daughter-in-law} came from the city.|我儿子和儿媳从城里回来了。
+Our {grandson} is playing with his toy cars.|我们的孙子在玩他的小汽车。
+Our {granddaughter} is drawing a picture of us.|孙女在给我们画像。
+My {sister} lives nearby, so she came too.|我姐姐住得近，也来了。
+"Where is {grandfather}?" asks the little boy.|“爷爷在哪儿？”小男孩问。
+@feelings
+Betty's son lives far away in Canada.|贝蒂的儿子住在遥远的加拿大。
+Sometimes she feels {lonely} at home.|有时候她一个人在家会觉得孤单。
+When he does not call, she gets {worried}.|他不打电话的时候，她就会担心。
+Today he called, and she was so {happy}.|今天他打来了电话，她非常开心。
+"I'm coming home for Spring Festival!" he said. She was very {surprised}.|“我春节回家！”他说。她非常惊讶。
+She was {excited} and could not sleep that night.|她兴奋得那天晚上都睡不着。
+Now she feels {calm} and waits for the day.|现在她心里很平静，等着那一天。
+@events
+This year is very special for the Zhang family.|今年对张家来说很特别。
+In March, Grandpa Zhang began his {retirement}.|三月，张爷爷正式退休了。
+In May, his granddaughter had her {wedding}.|五月，他的孙女举行了婚礼。
+They sent out a red {invitation} to every friend.|他们给每位朋友都发了红色的请帖。
+In June, it was their 40th {anniversary}.|六月是他们结婚四十周年纪念日。
+Their son brought a big {gift} for them.|儿子给他们带来了一份大礼物。
+Everyone said, "{Congratulations}!"|大家都说：“恭喜恭喜！”
+@childhood
+My daughter-in-law is {pregnant} again.|我儿媳又怀孕了。
+The doctor says she is having {twins}!|医生说是一对双胞胎！
+We bought a new {crib} and lots of toys.|我们买了一张新的婴儿床和很多玩具。
+We also need a big {stroller} for two babies.|我们还需要一辆能坐两个宝宝的大婴儿车。
+I will help change the {diaper} and warm the bottle.|我会帮忙换尿布、热奶瓶。
+Their big brother is a {toddler} now.|他们的哥哥现在刚会走路。
+Next year he will go to {kindergarten}.|明年他就要上幼儿园了。
+@routines
+Grandpa Li has the same day every day.|李爷爷每天的生活都很有规律。
+He {wake up=wakes up} at six and listens to the birds.|他六点醒来，听听鸟叫。
+He {brush teeth=brushes his teeth} and washes his face.|他刷牙洗脸。
+After breakfast, he likes to {read the newspaper}.|早饭后，他喜欢看报纸。
+At noon he has lunch, and then he likes to {take a nap}.|中午吃过饭，他喜欢睡个午觉。
+In the evening, he and Grandma {go for a walk} in the park.|晚上，他和奶奶去公园散步。
+He always tries to {go to bed} at ten.|他总是尽量十点上床睡觉。
+@personality
+Let me tell you about my neighbor, Mr. Sun.|我来给你讲讲我的邻居孙先生。
+He is very {kind} and helps everyone.|他很善良，谁都帮。
+He is also {funny} and tells good jokes.|他也很风趣，笑话讲得特别好。
+His wife is {quiet} but always smiles.|他太太话不多，但总是笑眯眯的。
+Their grandson is {polite} and says hello to us.|他们的孙子很有礼貌，见到我们就打招呼。
+He is also a {clever} boy and does well at school.|他也是个聪明的孩子，学习很好。
+Mr. Sun is {honest}, so we trust him with our keys.|孙先生很诚实，所以我们放心把钥匙交给他。
+@actions
+Every morning, Master Chen teaches tai chi in the park.|每天早上，陈师傅在公园教太极。
+"Please {stand} with your feet apart," he says.|“请两脚分开站好。”他说。
+"Now {bend} your knees a little."|“现在膝盖稍微弯一点。”
+"Slowly {lift} your arms up."|“慢慢把手臂抬起来。”
+"Don't {run} or {jump}; just move slowly."|“不要跑，也不要跳，慢慢动就好。”
+After class, we {sit} on the bench and rest.|下课后，我们坐在长椅上休息。
+Some of us {sing} old songs together.|有些人还一起唱老歌。

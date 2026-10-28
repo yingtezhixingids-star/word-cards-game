@@ -1,0 +1,135 @@
+@stage
+Last night, my daughter took me to the {theater}.|昨晚，女儿带我去了剧院。
+We sat in the {front row}.|我们坐在第一排。
+It was a {musical} about a family.|那是一部关于一个家庭的音乐剧。
+The {costume=costumes} were beautiful.|服装非常漂亮。
+In the {interval}, we had some tea.|中场休息时，我们喝了点茶。
+At the end, the actors came back on {stage}.|最后，演员们回到舞台上。
+The whole {audience} began to {clap}.|全场观众都鼓起掌来。
+@movies
+On Saturday, my grandson and I went to see a {movie}.|周六，我和孙子去看了一场电影。
+He wanted an {action movie}, but I wanted a {cartoon}.|他想看动作片，我想看动画片。
+In the end, we saw a cartoon in 3D.|最后，我们看了一部3D动画片。
+We put on our {3D glasses}.|我们戴上了3D眼镜。
+He ate a big box of {popcorn}.|他吃了一大桶爆米花。
+The {ending} was happy, and we both laughed.|结局很圆满，我们俩都笑了。
+Now he wants to see the {sequel}!|现在他又想看续集了！
+@music1
+I sing in a {choir} at the community center.|我在社区中心的合唱团唱歌。
+Every Tuesday, we learn a new {song}.|每周二我们学一首新歌。
+Our teacher plays the {piano}.|老师弹钢琴。
+Mr. Zhang plays the {erhu}.|张先生拉二胡。
+Mrs. Liu plays the {flute}.|刘太太吹长笛。
+Next month, we will give a {concert}.|下个月，我们要开一场音乐会。
+Please come and {listen}!|请来听吧！
+@music2
+My grandson is learning an {instrument}: the violin.|我孙子在学一种乐器：小提琴。
+He has to {practice} every day.|他每天都得练习。
+At first, it was too {loud}!|一开始太吵了！
+So I turned down the {volume} on my radio.|所以我把收音机的音量调小了。
+Now his {rhythm} is much better.|现在他的节奏好多了。
+He likes {classical music}, but his sister likes {pop music}.|他喜欢古典音乐，他姐姐喜欢流行音乐。
+On Friday nights, we all sing {karaoke} together.|周五晚上，我们一起唱卡拉OK。
+@museums
+Last week, we visited the city {museum}.|上周，我们参观了市博物馆。
+The {entrance fee} was free for seniors.|老年人免门票。
+I rented an {audio guide}.|我租了一个语音导览器。
+There was a new {exhibition} of Chinese {porcelain}.|那里有一个中国瓷器的新展览。
+Upstairs, we saw beautiful {calligraphy}.|楼上，我们看到了精美的书法。
+The sign said "{No flash}."|牌子上写着“禁止闪光灯”。
+Before we left, I bought a postcard in the {gift shop}.|离开前，我在礼品店买了张明信片。
+@travel
+Last spring, we booked a {trip} to Guilin.|去年春天，我们订了去桂林的旅行。
+We went to a {travel agency} near our home.|我们去了家附近的一家旅行社。
+They gave us a clear {itinerary}.|他们给了我们一份清楚的行程表。
+At the hotel {reception}, we got our {key card}.|在酒店前台，我们拿到了房卡。
+We had a {double room} with a river view.|我们住了一间能看到江景的双人房。
+And {breakfast included}!|还含早餐！
+On the last day, we had to {check out} by noon.|最后一天，我们中午前要退房。
+@sightseeing
+We joined a {tour group} to Xi'an.|我们参加了一个去西安的旅行团。
+Our guide had a red flag and a {guidebook}.|导游拿着一面红旗和一本旅游指南。
+The Terracotta Army is very {famous}.|兵马俑非常有名。
+It was very {crowded}, but we enjoyed it.|人很多，但我们玩得很开心。
+My wife wanted to {take a picture} at every {landmark}.|我老伴每到一个地标都要拍照。
+My grandson took a {selfie} with us.|孙子和我们一起自拍。
+I bought a small {souvenir} for my neighbor.|我给邻居买了个小纪念品。
+@outdoor
+On Sunday, our walking club went to the {nature reserve}.|星期天，我们健步走俱乐部去了自然保护区。
+We followed a long {trail} by the river.|我们沿着河边一条长长的步道走。
+I used my {walking stick}.|我拄着登山杖。
+It was hot, so I wore a {sun hat}.|天很热，我戴了遮阳帽。
+Mr. Wu went {bird watching} with his {binoculars}.|吴先生拿着望远镜观鸟。
+At the {viewpoint}, we could see the whole valley.|在观景台，我们能看到整个山谷。
+Then we had a {picnic} under the trees.|然后我们在树下野餐。
+@beach
+In summer, we went to the {beach} with the grandchildren.|夏天，我们带孙子孙女去了海滩。
+I sat under a {beach umbrella}.|我坐在沙滩伞下。
+The children built a big {sandcastle}.|孩子们堆了一座大沙堡。
+They looked for {shell=shells} on the {sand}.|他们在沙滩上找贝壳。
+My son wanted to {sunbathe} all day.|儿子想晒一整天太阳。
+In the evening, he had a bad {sunburn}!|晚上，他被晒伤得很厉害！
+@camping
+Last weekend, my son took us camping.|上周末，儿子带我们去露营。
+We found a quiet {campsite} by the lake.|我们在湖边找到一个安静的营地。
+My grandson helped to {put up a tent}.|孙子帮忙搭帐篷。
+We collected {firewood} and made a {campfire}.|我们捡了柴火，生了篝火。
+We cooked noodles on a {camping stove}.|我们用野营炉煮面条。
+At night, we hung a {lantern} in the tree.|晚上，我们把提灯挂在树上。
+I slept in a warm {sleeping bag}.|我睡在暖和的睡袋里。
+@homeent
+My grandson set up a {smart TV} in our living room.|孙子在我们客厅装了一台智能电视。
+Now we can watch movies by {streaming}.|现在我们可以在线看电影了。
+We pay for a monthly {subscription}.|我们每个月付订阅费。
+He also gave us a {smart speaker}.|他还给了我们一个智能音箱。
+It plays my favorite {playlist}.|它能放我最喜欢的歌单。
+But I still love my old {record player}.|但我还是爱我的老唱片机。
+In the evening, we look at the old {photo album} together.|晚上，我们一起翻老相册。
+@television
+Every evening at seven, Grandpa watches TV.|每天晚上七点，爷爷都看电视。
+First, he watches the {weather forecast}.|他先看天气预报。
+Then he changes the {channel}.|然后他换台。
+He likes a {cooking show}.|他喜欢一个烹饪节目。
+The {host} is very funny.|主持人很幽默。
+There are too many {commercial=commercials}!|广告太多了！
+Grandma is hard of hearing, so she asks him to {turn up} the volume.|奶奶耳朵背，让他把音量调大。
+@books
+Every Friday, I go to the library.|每周五，我都去图书馆。
+I show my {library card}.|我出示借书证。
+I {borrow} two books every week.|我每周借两本书。
+I like {large print} books, because my eyes are weak.|我喜欢大字书，因为我眼睛不好。
+This week I'm reading a {novel}.|这周我在读一本小说。
+The {author} is from my hometown.|作者是我老乡。
+I use a {bookmark} to keep my place.|我用书签记住读到哪里了。
+@fantasy
+Every night, I tell my granddaughter a {fairy tale}.|每天晚上，我给孙女讲一个童话故事。
+Tonight's story is about a {princess}.|今晚的故事讲的是一位公主。
+A bad {witch} put her to sleep.|一个坏女巫让她睡着了。
+A brave {prince} came to help her.|一位勇敢的王子来帮她。
+On the way, he fought a big {dragon}.|路上，他和一条大龙搏斗。
+A kind {fairy} gave him some {magic}.|一位善良的仙女给了他一些魔法。
+My granddaughter fell asleep before the end!|没讲完孙女就睡着了！
+@games
+In the park, old men play {Chinese chess} every afternoon.|每天下午，公园里的老人们下象棋。
+Uncle Li says, "It's {your turn}."|李叔叔说：“轮到你了。”
+Grandma's friends play {mahjong} at home.|奶奶的朋友们在家打麻将。
+On rainy days, we play a {board game} with the grandchildren.|下雨天，我们和孙子孙女玩桌游。
+Little Ming throws the {dice}.|小明掷骰子。
+He wants to {cheat}, but we see him!|他想作弊，但被我们发现了！
+Before bed, I do a {sudoku} to keep my brain young.|睡觉前，我做一道数独让脑子保持年轻。
+@crafts1
+At the senior center, there is a craft class.|老年活动中心有一个手工班。
+This month, we are learning {paper cutting}.|这个月，我们在学剪纸。
+Last month, we learned {origami}.|上个月，我们学了折纸。
+Mrs. Zhao likes to {knit}.|赵太太喜欢织毛线。
+She buys soft {yarn} at the market.|她在市场上买柔软的毛线。
+I prefer {embroidery}.|我更喜欢刺绣。
+But I can't put the {thread} through the {needle} without my glasses!|但不戴眼镜我穿不上针！
+@crafts2
+Every Wednesday, I learn calligraphy from Master Wang.|每周三，我跟王老师学书法。
+He grinds the {ink} on an {ink stone}.|他在砚台上磨墨。
+We write on thin {rice paper}.|我们在薄薄的宣纸上写字。
+He also teaches {Chinese painting}.|他还教国画。
+Today we painted a {landscape painting} with mountains.|今天我们画了一幅有山的山水画。
+At the end, he puts his red {seal} on it.|最后，他盖上红色的印章。
+My grandson wants to learn {oil painting} on {canvas}.|我孙子想学在画布上画油画。

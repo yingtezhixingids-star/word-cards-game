@@ -1,0 +1,290 @@
+#leisure|여가
+@stage|무대|剧院经理 커튼 극장장|🎭|오 분 후에 공연이 시작합니다!|演出五分钟后开始！
+show|공연|공연이 멋졌어요.
+stage|무대|배우들이 무대 위에 있어요.
+play|연극|어젯밤에 연극을 봤어요.
+audience|관객|관객들이 아주 좋아했어요.
+clap|박수 치다|모두 박수를 쳤어요.
+theater|극장|극장은 시내에 있어요.
+comedy|코미디|코미디를 좋아해요.
+ballet|발레|손녀는 발레를 배워요.
+opera|오페라|오페라를 보러 갔어요.
+Peking opera|경극|할아버지는 경극을 아주 좋아하세요.
+musical|뮤지컬|뮤지컬은 영어로 했어요.
+costume|의상|의상이 아름다워요.
+performance|공연|정말 멋진 공연이에요!
+front row|맨 앞줄|맨 앞줄에 앉았어요.
+interval|중간 휴식|중간 휴식 때 음료를 샀어요.
+rehearsal|리허설|합창단은 오늘 리허설이 있어요.
+@movies|영화|售票员 티나 매표원|🎟️|어떤 영화 보실래요?|您想看哪部电影？
+movie|영화|영화 봐요.
+popcorn|팝콘|팝콘하고 콜라 주세요.
+actress|여배우|그녀는 제가 제일 좋아하는 여배우예요.
+movie star|영화배우|그는 영화배우였어요.
+director|감독|감독이 누구예요?
+cartoon|만화 영화|손자는 만화 영화를 봐요.
+action movie|액션 영화|액션 영화를 좋아해요.
+horror movie|공포 영화|공포 영화는 안 봐요.
+love story|사랑 이야기|사랑 이야기예요.
+documentary|다큐멘터리|중국에 관한 다큐멘터리예요.
+subtitles|자막|중국어 자막 있어요?
+3D glasses|3D 안경|3D 안경을 쓰세요.
+trailer|예고편|예고편을 봤어요.
+scene|장면|그 장면은 너무 슬펐어요.
+ending|결말|해피엔딩이 좋아요.
+sequel|속편|속편이 나와요.
+@music1|음악 (1)|音乐老师 멜로디 선생님|🎹|같이 노래해요!|一起唱吧！
+music|음악|음악을 아주 좋아해요.
+song|노래|노래 불러 주세요.
+listen|듣다|이 노래 들어 보세요.
+piano|피아노|손녀는 피아노를 쳐요.
+guitar|기타|그는 기타를 쳐요.
+violin|바이올린|바이올린 소리가 고와요.
+drum|북|북소리가 커요.
+flute|플루트|저는 플루트를 불어요.
+band|밴드|아들은 밴드를 했어요.
+concert|음악회|음악회에 갔어요.
+choir|합창단|동네 합창단에서 노래해요.
+erhu|얼후|할아버지는 얼후를 켜세요.
+trumpet|트럼펫|트럼펫 소리가 커요.
+saxophone|색소폰|색소폰을 배우고 있어요.
+harmonica|하모니카|어릴 때 하모니카를 불었어요.
+accordion|아코디언|아버지는 아코디언을 켜셨어요.
+@music2|음악 (2)|钢琴家 폴 피아니스트|🎼|악기 다룰 줄 아세요?|你会演奏乐器吗？
+loud|시끄럽다|음악이 너무 시끄러워요.
+soft|잔잔하다|잔잔한 음악이 좋아요.
+volume|음량|소리를 줄이세요.
+headphones|헤드폰|헤드폰을 쓰세요.
+speaker|스피커|스피커가 고장 났어요.
+melody|멜로디|정말 아름다운 멜로디예요.
+rhythm|리듬|리듬에 맞춰 박수 치세요.
+instrument|악기|악기 다룰 줄 아세요?
+practice|연습하다|매일 연습해요.
+karaoke|노래방|노래방 가요!
+classical music|클래식 음악|클래식 음악을 들어요.
+pop music|대중음악|손자는 대중음악을 좋아해요.
+folk song|민요|오래된 중국 민요예요.
+jazz|재즈|재즈는 마음이 편해져요.
+rock music|록 음악|록 음악은 저한테 너무 시끄러워요.
+orchestra|오케스트라|그 오케스트라는 아주 훌륭해요.
+@museums|박물관과 미술관|讲解员 모나 해설사|🧑‍🏫|그림을 만지지 마세요.|请不要触摸画作。
+museum|박물관|박물관에 가요.
+art|미술|중국 미술을 좋아해요.
+painting|그림|이 그림은 아주 오래됐어요.
+gallery|미술관|미술관은 무료예요.
+statue|조각상|말 조각상이에요.
+exhibition|전시회|새 전시회가 있어요.
+sculpture|조각|아름다운 조각이에요.
+antique|골동품|이 꽃병은 골동품이에요.
+porcelain|도자기|중국 도자기는 유명해요.
+calligraphy|서예|매일 서예를 연습해요.
+audio guide|오디오 가이드|중국어 오디오 가이드 있어요?
+entrance fee|입장료|입장료는 만 원이에요.|门票一万韩元。
+no flash|플래시 금지|플래시 촬영은 금지예요.
+collection|소장품|그 박물관은 소장품이 많아요.
+masterpiece|걸작|이건 걸작이에요.
+gift shop|기념품 가게|기념품 가게를 구경해요.
+@travel|여행과 숙박|酒店前台 로즈 직원|🛎️|어서 오세요! 예약하셨어요?|欢迎！您有预订吗？
+travel|여행하다|여행을 아주 좋아해요.
+trip|여행|즐거운 여행 되세요!
+vacation|휴가|우리는 휴가 중이에요.
+luggage|짐|짐이 얼마나 돼요?
+tour|관광|시내 관광을 했어요.
+check out|체크아웃|체크아웃은 몇 시예요?
+key card|카드 키|카드 키가 안 돼요.
+single room|싱글룸|싱글룸으로 주세요.
+double room|더블룸|더블룸으로 하고 싶어요.
+reception|프런트|프런트에 물어보세요.
+breakfast included|조식 포함|조식 포함이에요?
+guesthouse|게스트하우스|게스트하우스에 묵었어요.
+travel agency|여행사|여행사에서 예약했어요.
+wake-up call|모닝콜|여섯 시에 모닝콜 해 주세요.
+room service|룸서비스|룸서비스를 부르세요.
+itinerary|여행 일정|이게 우리 여행 일정이에요.
+@sightseeing|관광|导游 잭 가이드|🚩|제 깃발을 따라오세요!|请跟着我的小旗！
+tourist|관광객|여기는 관광객이 많아요.
+famous|유명하다|여기는 유명한 곳이에요.
+beautiful|아름답다|정말 아름다운 곳이에요!
+view|경치|경치가 정말 좋아요!
+crowded|붐비다|너무 붐벼요.
+take a picture|사진을 찍다|저희 사진 좀 찍어 주시겠어요?
+souvenir|기념품|기념품을 샀어요.
+selfie|셀카|셀카 찍어요!
+guidebook|여행 안내서|여행 안내서를 보세요.
+tour bus|관광버스|관광버스는 여덟 시에 출발해요.
+tour group|단체 관광|단체 관광에 참가했어요.
+landmark|랜드마크|그 탑은 유명한 랜드마크예요.
+attraction|명소|주요 명소가 어디예요?
+scenery|풍경|풍경이 정말 멋져요.
+brochure|안내 책자|안내 책자 가져가세요.
+sightseeing|구경|하루 종일 구경했어요.
+@outdoor|야외 활동|徒步领队 힐 대장|🥾|등산하러 가요!|去徒步吧！
+picnic|소풍|소풍 가요.
+hike|하이킹|일요일마다 하이킹을 해요.
+trail|산길|산길을 따라가세요.
+fly a kite|연을 날리다|연 날려요.
+walking stick|지팡이|지팡이를 짚어요.
+bird watching|새 관찰|새 관찰은 마음이 편해져요.
+binoculars|쌍안경|쌍안경으로 보세요.
+compass|나침반|나침반을 쓰세요.
+sun hat|햇빛 가리개 모자|햇빛 가리개 모자를 쓰세요.
+insect repellent|모기 기피제|모기 기피제를 바르세요.
+picnic blanket|돗자리|돗자리를 펴세요.
+hammock|해먹|해먹에서 쉬세요.
+boating|뱃놀이|호수에서 뱃놀이를 했어요.
+viewpoint|전망대|전망대까지 걸어가요.
+nature reserve|자연 보호 구역|여기는 자연 보호 구역이에요.
+orienteering|오리엔티어링|오리엔티어링은 지도와 나침반을 써요.
+@beach|바닷가|救生员 벤 안전요원|🏖️|너무 멀리 헤엄치지 마세요!|别游太远！
+beach|해변|해변에 가요.
+sea|바다|바다가 파래요.
+sand|모래|모래가 뜨거워요.
+sun|해|오늘은 햇볕이 강해요.|今天太阳很晒。
+waves|파도|파도가 커요.
+shell|조개껍데기|아이들이 조개껍데기를 모아요.
+sandcastle|모래성|모래성 쌓아요.
+beach umbrella|파라솔|파라솔 밑에 앉으세요.
+beach towel|비치 타월|비치 타월 위에 누우세요.
+sunbathe|일광욕하다|일광욕을 좋아해요.
+sunburn|햇볕에 탐|햇볕에 탔어요.
+flip-flops|조리|해변에서는 조리를 신으세요.
+deck chair|접이식 의자|접이식 의자를 빌리세요.
+swimming trunks|수영 팬티|수영 팬티를 잊어버렸어요.
+coast|해안|해안을 따라 운전했어요.
+sun lounger|선베드|선베드 두 개 주세요.
+@camping|캠핑|营地管理员 롭 관리인|🏕️|여기에 텐트를 치세요.|在这里搭帐篷。
+tent|텐트|텐트에서 잤어요.
+camp|캠핑하다|호숫가에서 캠핑해요.
+campfire|모닥불|모닥불 주위에 앉으세요.
+sleeping bag|침낭|제 침낭은 따뜻해요.
+lantern|랜턴|랜턴을 켜세요.
+matches|성냥|성냥 있어요?
+firewood|장작|장작을 좀 모으세요.
+thermos|보온병|보온병에 뜨거운 차를 담아 가요.
+campsite|캠핑장|캠핑장이 꽉 찼어요.
+put up a tent|텐트를 치다|텐트 치는 거 도와주세요.
+camping stove|캠핑 버너|캠핑 버너로 요리하세요.
+air mattress|에어 매트|에어 매트에 바람을 넣으세요.
+pocketknife|주머니칼|주머니칼은 쓸모가 많아요.
+caravan|캠핑카|캠핑카로 여행했어요.
+tent peg|텐트 말뚝|텐트 말뚝을 박으세요.
+trailer|트레일러|트레일러를 끌고 갔어요.
+@homeent|집에서 즐기기|孙子 맥스|👦|할아버지, 게임해요!|爷爷，我们玩游戏吧！
+video game|비디오 게임|손자는 비디오 게임을 해요.
+game console|게임기|그는 게임기를 선물 받았어요.
+smart TV|스마트 티브이|스마트 티브이는 어떻게 써요?
+DVD|디브이디|디브이디 봐요.
+streaming|스트리밍|영화는 스트리밍으로 봐요.
+smart speaker|인공지능 스피커|인공지능 스피커한테 음악을 틀어 달라고 하세요.
+Bluetooth|블루투스|블루투스를 켜세요.
+playlist|재생 목록|옛날 노래로 재생 목록을 만드세요.
+record player|전축|아직도 전축이 있어요.
+cassette|카세트테이프|옛날 카세트테이프는 상자에 있어요.
+photo album|사진첩|사진첩 봐요.
+jigsaw puzzle|직소 퍼즐|같이 직소 퍼즐을 맞췄어요.
+home cinema|홈시어터|아들은 홈시어터가 있어요.
+joystick|조이스틱|조이스틱을 움직이세요.
+VR headset|VR 헤드셋|VR 헤드셋을 써 보세요.
+subscription|구독|구독료가 얼마예요?
+@television|텔레비전|节目主持 애니 진행자|🎙️|다시 돌아왔습니다!|欢迎回到节目！
+channel|채널|채널을 바꾸세요.
+program|프로그램|무슨 프로그램 해요?
+turn on|켜다|텔레비전을 켜세요.
+turn off|끄다|텔레비전을 끄세요.
+turn up|소리를 키우다|소리를 키우세요.
+turn down|소리를 줄이다|소리 좀 줄여 주세요.
+series|드라마|매일 밤 중국 드라마를 봐요.
+episode|회|한 회를 놓쳤어요.
+host|진행자|진행자가 재미있어요.
+weather forecast|일기 예보|일기 예보를 보세요.
+soap opera|일일 드라마|아내는 일일 드라마를 좋아해요.
+cooking show|요리 프로그램|요리 프로그램에서 요리법을 배워요.
+game show|퀴즈 프로그램|퀴즈 프로그램은 재미있어요.
+talk show|토크쇼|그는 토크쇼를 봐요.
+commercial|광고|광고가 너무 많아요!
+reality show|리얼리티 쇼|리얼리티 쇼가 인기예요.
+@books|독서|图书管理员 리사 사서|📚|금요일까지 반납하세요.|你的书周五到期。
+read|읽다|매일 저녁 책을 읽어요.
+story|이야기|이야기해 주세요.
+page|쪽|십 쪽을 펴세요.
+author|작가|작가가 누구예요?
+novel|소설|소설을 읽고 있어요.
+poem|시|당시를 아주 좋아해요.
+chapter|장|일 장을 읽으세요.
+cover|표지|표지가 빨개요.
+title|제목|제목이 뭐예요?
+bookmark|책갈피|책갈피를 쓰세요.
+borrow|빌리다|이 책 빌려도 돼요?
+return|돌려주다|다음 주에 돌려주세요.
+library card|도서관 카드|도서관 카드가 필요해요.
+large print|큰 글자판|큰 글자판 있어요?
+audiobook|오디오북|오디오북을 들어요.
+e-book|전자책|태블릿으로 전자책을 읽어요.
+@fantasy|판타지와 신화|讲故事的人 샘 이야기꾼|🧙|옛날 옛적에...|很久很久以前……
+dragon|용|용은 중국의 상징이에요.
+magic|마법|마법 같아요!
+ghost|귀신|귀신을 믿어요?
+monster|괴물|침대 밑에 괴물이 있어요!
+prince|왕자|왕자가 그녀를 구했어요.
+princess|공주|손녀는 공주가 되고 싶어 해요.
+fairy|요정|날개 달린 요정이에요.
+witch|마녀|마녀는 검은 고양이를 키워요.
+wizard|마법사|마법사는 마법을 쓸 수 있어요.
+giant|거인|거인은 키가 아주 커요.
+unicorn|유니콘|하얀 유니콘이에요.
+mermaid|인어|인어 공주.
+fairy tale|동화|동화 읽어 주세요.
+legend|전설|오래된 전설이에요.
+phoenix|봉황|봉황이 다시 날아올라요.
+Monkey King|손오공|아이들은 손오공을 좋아해요.
+@games|게임|棋友 리 아저씨|♟️|당신 차례예요!|该你走了！
+game|게임|게임해요.
+play|놀다|아이들이 밖에서 놀고 있어요.
+your turn|당신 차례|당신 차례예요.
+dice|주사위|주사위를 굴리세요.
+cards|카드|카드놀이 해요.
+chess|체스|체스 둘 줄 알아요?
+Chinese chess|장기|할아버지는 공원에서 장기를 두세요.
+Go|바둑|바둑은 아주 오래된 게임이에요.
+mahjong|마작|주말에 마작을 해요.
+board game|보드게임|보드게임 해요.
+crossword|십자말풀이|매일 십자말풀이를 해요.
+sudoku|스도쿠|스도쿠를 하면 머리가 맑아져요.
+riddle|수수께끼|수수께끼 맞힐 수 있어요?
+hide and seek|숨바꼭질|숨바꼭질해요.
+checkers|체커|체커는 배우기 쉬워요.
+cheat|속이다|반칙하면 안 돼요!
+@crafts1|공예 (1)|美术老师 크래프트 선생님|👩‍🎨|뭔가 만들어 봐요!|我们来做点东西！
+crayon|크레용|손자는 크레용으로 그림을 그려요.
+colored pencil|색연필|색연필 한 상자예요.
+paintbrush|붓|붓을 씻으세요.
+watercolor|수채화 물감|수채화 물감으로 그려요.
+sketch|스케치|당신을 스케치해 볼게요.
+easel|이젤|캔버스를 이젤에 올리세요.
+clay|찰흙|아이들이 찰흙으로 놀아요.
+pottery|도예|도예 수업을 들어요.
+origami|종이접기|종이학을 접어요.
+paper cutting|종이 오리기|종이 오리기는 중국의 예술이에요.
+knit|뜨개질하다|가족을 위해 스웨터를 떠요.
+sew|꿰매다|이 단추 좀 달아 주실래요?
+needle|바늘|바늘에 실 좀 꿰어 주세요.
+thread|실|흰 실이 필요해요.
+yarn|털실|빨간 털실을 샀어요.
+embroidery|자수|중국 자수는 아름다워요.
+@crafts2|공예 (2)|书法老师 왕 선생님|🖌️|붓을 똑바로 잡으세요.|把毛笔拿直。
+ink|먹|먹을 가세요.
+rice paper|화선지|화선지에 쓰세요.
+ink stone|벼루|이 벼루는 아주 오래됐어요.
+Chinese painting|중국화|중국화를 배워요.
+oil painting|유화|바다를 그린 유화예요.
+canvas|캔버스|캔버스에 그리세요.
+portrait|초상화|어머니의 초상화예요.
+landscape painting|산수화|산수화를 아주 좋아해요.
+seal|도장|그림에 도장을 찍으세요.
+beads|구슬|구슬로 팔찌를 만드세요.
+carve|조각하다|그는 나무를 조각해요.
+woodwork|목공|할아버지는 목공을 즐기세요.
+patchwork|패치워크|패치워크 이불이에요.
+collage|콜라주|아이들이 콜라주를 만들었어요.
+mosaic|모자이크|벽에 모자이크가 있어요.
+stained glass|스테인드글라스|그 교회에는 스테인드글라스가 있어요.

@@ -1,0 +1,171 @@
+#city|도시 생활
+@town1|시내 (1)|路人 워커 씨|🚶|길을 잃으셨어요?|你迷路了吗？
+street|거리|이 거리에 살아요.
+park|공원|공원에 가요.
+shop|가게|가게는 아홉 시에 열어요.
+bus stop|버스 정류장|버스 정류장이 어디예요?
+square|광장|광장에서 춤을 춰요.
+corner|모퉁이|모퉁이에 있어요.
+bridge|다리|다리를 건너세요.
+library|도서관|도서관은 조용해요.
+traffic light|신호등|초록불을 기다리세요.
+crosswalk|횡단보도|횡단보도로 건너세요.
+sidewalk|인도|인도로 걸으세요.
+downtown|시내|버스를 타고 시내에 가요.
+parking lot|주차장|주차장이 꽉 찼어요.
+block|블록|두 블록 떨어져 있어요.
+town hall|시청|시청은 공원 근처에 있어요.
+community center|주민 센터|주민 센터에서 한국어를 배워요.|我在社区中心学韩语。
+@town2|시내 (2)|社区志愿者 제니 씨|🙋‍♀️|길 찾는 거 도와드릴까요?|要我帮你指路吗？
+market|시장|시장에서 채소를 사요.
+hotel|호텔|이 호텔로 가 주세요.
+cinema|영화관|영화관에 가요.
+playground|놀이터|아이들은 놀이터에 있어요.
+church|교회|여기 오래된 교회가 있어요.
+temple|절|절에 가 봤어요.
+public toilet|공중화장실|근처에 공중화장실이 있어요?
+train station|기차역|기차역에 어떻게 가요?
+gas station|주유소|주유소에 들르세요.
+barber shop|이발소|할아버지는 이발소에 가세요.
+newsstand|신문 가판대|신문 가판대에서 신문을 사요.
+laundromat|빨래방|빨래방은 이십사 시간 열어요.
+factory|공장|아버지는 공장에서 일하셨어요.
+nursing home|요양원|친구는 요양원에 살아요.
+pedestrian street|보행자 거리|보행자 거리에는 가게가 많아요.
+tourist information|관광 안내소|관광 안내소에 물어보세요.
+@buildings|건물|导游 사라 씨|🧑‍🏫|이 건물은 삼백 년 됐어요.|这座建筑有300年历史了。
+building|건물|저 건물은 아주 높아요.
+tower|탑|탑에 올라갔어요.
+castle|성|성은 언덕 위에 있어요.
+palace|궁전|이화원에 가 봤어요.|我们参观了颐和园。
+pagoda|불탑|호숫가에 탑이 있어요.|湖边有座宝塔。
+skyscraper|고층 빌딩|뉴욕에는 고층 빌딩이 많아요.
+brick|벽돌|그 집은 벽돌로 지었어요.
+stone|돌|오래된 돌다리예요.
+ancient|고대의|여기는 고대 도시예요.
+modern|현대적이다|현대적인 건물을 좋아해요.
+entrance|입구|입구에서 만나요.
+column|기둥|그 건물에는 하얀 기둥이 있어요.
+dome|돔|저 금색 돔을 보세요.
+monument|기념비|광장에 기념비가 있어요.
+architect|건축가|유명한 건축가가 설계했어요.
+style|양식|이 건물은 무슨 양식이에요?
+@bankpost|은행과 우체국|银行柜员 이 대리|👩‍💼|무엇을 도와드릴까요?|今天要办什么业务？
+bank|은행|오늘 은행 열어요?
+money|돈|돈을 좀 찾아야 해요.
+cash|현금|현금으로 내도 돼요?
+coin|동전|동전이 좀 있어요.
+letter|편지|아들에게 편지를 썼어요.
+stamp|우표|우표가 필요해요.
+envelope|봉투|봉투에 넣으세요.
+parcel|소포|이 소포를 보내고 싶어요.
+post office|우체국|우체국이 어디예요?
+ATM|현금인출기|이 근처에 현금인출기 있어요?
+account|계좌|계좌를 만들고 싶어요.
+PIN|비밀번호|비밀번호를 누르세요.
+withdraw|인출하다|오십만 원을 찾고 싶어요.|我想取五十万韩元。
+deposit|입금하다|돈을 입금하고 싶어요.
+exchange rate|환율|오늘 환율이 얼마예요?
+postcode|우편번호|우편번호가 뭐예요?
+@shopping|쇼핑|店主 가게 주인|🧑‍💼|뭘 드릴까요?|您要点什么？
+buy|사다|모자를 사고 싶어요.
+sell|팔다|건전지 팔아요?
+price|가격|가격이 얼마예요?
+how much|얼마|이거 얼마예요?
+cheap|싸다|아주 싸요.
+expensive|비싸다|너무 비싸요.
+discount|할인|할인 돼요?
+change|거스름돈|거스름돈 여기 있어요.
+receipt|영수증|영수증 주시겠어요?
+credit card|신용카드|신용카드 돼요?
+cashier|계산원|계산원에게 내세요.
+customer|손님|그 가게는 손님이 많아요.
+refund|환불|환불 받을 수 있어요?
+exchange|교환|더 큰 사이즈로 교환할 수 있어요?
+bargain|싸게 산 물건|이 코트는 싸게 샀어요.
+gift wrap|선물 포장|선물 포장해 주시겠어요?
+@mall|쇼핑몰|商场保安 마이크 경비원|💂|화장실은 이 층에 있어요.|洗手间在二楼。
+shopping mall|쇼핑몰|쇼핑몰에 가요.
+store|상점|이 상점은 아주 커요.
+escalator|에스컬레이터|에스컬레이터에서는 손잡이를 잡으세요.
+restroom|화장실|화장실이 어디예요?
+exit|출구|출구가 어디예요?
+department store|백화점|백화점에서 샀어요.
+food court|푸드코트|푸드코트에서 먹어요.
+toy store|장난감 가게|장난감 가게에서 선물을 사요.
+bookstore|서점|이 서점을 좋아해요.
+shoe store|신발 가게|신발 가게는 일 층에 있어요.
+florist|꽃집|꽃집에서 장미를 샀어요.
+electronics store|전자 제품 매장|전자 제품 매장에서 휴대폰 충전기를 사야 해요.
+information desk|안내 데스크|안내 데스크에 물어보세요.
+shopping bag|쇼핑백|쇼핑백 필요하세요?
+opening hours|영업시간|영업시간이 어떻게 돼요?
+lost and found|분실물 센터|분실물 센터로 가세요.
+@supermarket|마트|收银员 메리 씨|👩‍🦰|어서 오세요!|您好！需要帮忙吗？
+supermarket|마트|매일 마트에 가요.
+cart|카트|카트는 문 옆에 있어요.
+basket|장바구니|장바구니 가져가도 돼요?
+shelf|진열대|맨 위 진열대에 있어요.
+aisle|통로|쌀은 오 번 통로에 있어요.
+checkout|계산대|계산대로 가요.
+snacks|과자|손자는 과자를 좋아해요.
+drinks|음료|음료는 저쪽에 있어요.
+plastic bag|비닐봉지|비닐봉지 필요하세요?
+frozen food|냉동식품|냉동식품은 안쪽에 있어요.
+special offer|특가|달걀이 특가예요.
+weigh|무게를 달다|이 사과 무게 좀 달아 주세요.
+label|라벨|라벨을 읽으세요.
+barcode|바코드|바코드를 찍으세요.
+best before|유통기한|유통기한을 확인하세요.
+loyalty card|멤버십 카드|멤버십 카드 있으세요?
+@pharmacy|약국|药剂师 진 약사님|🧑‍⚕️|처방전 있으세요?|你有处方吗？
+pharmacy|약국|이 근처에 약국 있어요?
+pill|알약|하루에 두 알 드세요.
+pharmacist|약사|약사에게 물어보세요.
+painkiller|진통제|진통제가 필요해요.
+band-aid|반창고|반창고를 붙이세요.
+mask|마스크|마스크를 쓰세요.
+cough syrup|기침 시럽|자기 전에 기침 시럽을 드세요.
+cold medicine|감기약|감기약 있어요?
+eye drops|안약|이 안약을 하루에 두 번 넣으세요.
+thermometer|체온계|체온계가 필요해요.
+dose|복용량|복용량이 어떻게 돼요?
+ointment|연고|화상에 이 연고를 바르세요.
+cotton swab|면봉|면봉을 쓰세요.
+antibiotics|항생제|항생제는 끝까지 다 드세요.
+sleeping pill|수면제|수면제를 너무 많이 먹지 마세요.
+hot water bottle|보온 물주머니|보온 물주머니로 몸을 데워요.
+@emergency|긴급 서비스|接线员 제인 상담원|📞|일일구입니다. 무슨 일이세요?|这里是急救中心。出什么事了？
+help|도와주세요|살려 주세요! 도와주세요!
+police|경찰|경찰을 불러요!
+fire|불|불이야! 나가요!
+danger|위험|위험해요! 가까이 가지 마세요.
+lost|길을 잃다|길을 잃었어요.
+police officer|경찰관|경찰관에게 물어보세요.
+police car|경찰차|경찰차가 와요.
+firefighter|소방관|소방관이 왔어요.
+fire engine|소방차|소방차가 지나가게 비켜 주세요.
+accident|사고|사고가 났어요.
+thief|도둑|도둑이 제 가방을 가져갔어요!
+emergency exit|비상구|비상구가 어디예요?
+fire alarm|화재경보기|화재경보기가 울려요.
+first aid|응급 처치|응급 처치할 줄 아는 사람 있어요?
+fire extinguisher|소화기|소화기가 어디 있어요?
+witness|목격자|목격자세요?
+@energy|에너지와 전기|电力工程师 장 엔지니어|👷|에너지를 아낍시다!|请节约能源！
+electricity|전기|전기가 나갔어요.
+gas|가스|가스를 잠그세요.
+power|전력|전기가 들어왔어요.|来电了。
+energy|에너지|에너지를 아끼세요.
+coal|석탄|난방에 석탄을 썼어요.
+charge|충전하다|휴대폰을 충전해야 해요.
+solar panel|태양광 패널|지붕에 태양광 패널이 있어요.
+wind turbine|풍력 발전기|풍력 발전기를 보세요.
+power station|발전소|강가에 발전소가 있어요.
+electricity bill|전기 요금|이번 달 전기 요금이 많이 나왔어요.
+meter|계량기|계량기를 확인하세요.
+save energy|절전|절전을 위해 불을 끄세요.
+nuclear power|원자력|프랑스는 원자력을 많이 써요.
+power line|송전선|송전선에서 멀리 떨어지세요.
+generator|발전기|병원에는 발전기가 있어요.
+renewable|재생 가능하다|바람은 재생 가능 에너지예요.

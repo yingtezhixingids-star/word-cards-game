@@ -1,0 +1,720 @@
+머리 = meori | 동의하면 고개를 끄덕이세요. = donguihamyeon gogaereul kkeudeogiseyo.
+눈 = nun | 눈을 감고 쉬세요. = nuneul gamgo swiseyo.
+귀 = gwi | 왼쪽 귀가 아파요. = oenjjok gwiga apayo.
+코 = ko | 콧물이 나요. = konmuri nayo.
+입 = ip | 입을 벌려 주세요. = ibeul beollyeo juseyo.
+머리카락 = meorikarak | 머리카락이 하얘지고 있어요. = meorikaragi hayaejigo isseoyo.
+얼굴 = eolgul | 얼굴을 씻으세요. = eolgureul ssiseuseyo.
+목 = mok | 목이 뻣뻣해요. = mogi ppeotppeotaeyo.
+팔 = pal | 팔을 드세요. = pareul deuseyo.
+다리 = dari | 다리가 피곤해요. = dariga pigonhaeyo.
+등 = deung | 등이 아파요. = deungi apayo.
+어깨 = eokkae | 들어 올리면 어깨가 아파요. = deureo ollimyeon eokkaega apayo.
+무릎 = mureup | 계단에서 무릎이 아파요. = gyedaneseo mureubi apayo.
+가슴 = gaseum | 가슴이 아파요. = gaseumi apayo.
+허리 = heori | 이 벨트는 허리가 꽉 껴요. = i belteuneun heoriga kkwak kkyeoyo.
+배 = bae | 배가 불러요. = baega bulleoyo.
+손 = son | 먹기 전에 손을 씻으세요. = meokgi jeone soneul ssiseuseyo.
+발 = bal | 발이 차가워요. = bari chagawoyo.
+손가락 = songarak | 손가락을 베었어요. = songarageul beeosseoyo.
+엄지손가락 = eomjisongarak | 최고예요! = choegoyeyo!
+발가락 = balgarak | 발가락을 다쳤어요. = balgarageul dacheosseoyo.
+손톱 = sontop | 손톱을 깎아야 해요. = sontobeul kkakkaya haeyo.
+손목 = sonmok | 손목에 시계를 차요. = sonmoge sigyereul chayo.
+손바닥 = sonbadak | 제 손바닥에 놓아 주세요. = je sonbadage noa juseyo.
+주먹 = jumeok | 주먹을 쥐세요. = jumeogeul jwiseyo.
+발뒤꿈치 = baldwikkumchi | 발뒤꿈치가 아파요. = baldwikkumchiga apayo.
+발목 = balmok | 발목을 삐었어요. = balmogeul ppieosseoyo.
+발바닥 = balbadak | 발바닥이 가려워요. = balbadagi garyeowoyo.
+손가락 관절 = songarak gwanjeol | 손가락 관절이 부었어요. = songarak gwanjeori bueosseoyo.
+새끼손가락 = saekkisongarak | 새끼손가락에 반지를 껴요. = saekkisongarage banjireul kkyeoyo.
+검지 = geomji | 검지로 가리키세요. = geomjiro garikiseyo.
+엄지발가락 = eomjibalgarak | 이 신발을 신으면 엄지발가락이 아파요. = i sinbareul sineumyeon eomjibalgaragi apayo.
+뼈 = ppyeo | 우유는 뼈에 좋아요. = uyuneun ppyeoe joayo.
+근육 = geunyuk | 운동하면 근육이 튼튼해져요. = undonghamyeon geunyugi teunteunhaejeoyo.
+두개골 = dugaegol | 두개골은 뇌를 보호해요. = dugaegoreun noereul bohohaeyo.
+척추 = cheokchu | 척추를 곧게 펴세요. = cheokchureul gotge pyeoseyo.
+갈비뼈 = galbippyeo | 넘어져서 갈비뼈를 다쳤어요. = neomeojeoseo galbippyeoreul dacheosseoyo.
+관절 = gwanjeol | 추우면 관절이 쑤셔요. = chuumyeon gwanjeori ssusyeoyo.
+고관절 = gogwanjeol | 그녀는 작년에 고관절 수술을 받았어요. = geunyeoneun jangnyeone gogwanjeol susureul badasseoyo.
+팔꿈치 = palkkumchi | 팔꿈치를 부딪쳤어요. = palkkumchireul buditcheosseoyo.
+턱 = teok | 먹을 때 턱에서 소리가 나요. = meogeul ttae teogeseo soriga nayo.
+엑스레이 = ekseurei | 엑스레이를 찍어야 해요. = ekseureireul jjigeoya haeyo.
+골격 = golgyeok | 사람의 골격에는 뼈가 이백육 개 있어요. = saramui golgyeogeneun ppyeoga ibaegyuk gae isseoyo.
+골반 = golban | 골반은 몸을 받쳐 줘요. = golbaneun momeul batcheo jwoyo.
+무릎뼈 = mureupppyeo | 무릎뼈는 무릎을 보호해요. = mureupppyeoneun mureubeul bohohaeyo.
+쇄골 = swaegol | 그는 쇄골이 부러졌어요. = geuneun swaegori bureojeosseoyo.
+힘줄 = himjul | 힘줄을 다쳤어요. = himjureul dacheosseoyo.
+연골 = yeongol | 연골은 관절의 쿠션이에요. = yeongoreun gwanjeorui kusyeonieyo.
+심장 = simjang | 심장이 건강해요. = simjangi geonganghaeyo.
+폐 = pye | 담배는 폐에 해로워요. = dambaeneun pyee haerowoyo.
+뇌 = noe | 퍼즐은 뇌를 활발하게 해요. = peojeureun noereul hwalbalhage haeyo.
+피 = pi | 검사를 위해 피를 뽑았어요. = geomsareul wihae pireul ppobasseoyo.
+피부 = pibu | 자외선 차단제로 피부를 보호하세요. = jaoeseon chadanjero pibureul bohohaseyo.
+목구멍 = mokgumeong | 목이 아파요. = mogi apayo.
+간 = gan | 술을 너무 많이 마시면 간에 나빠요. = sureul reomu mani masimyeon gane nappayo.
+신장 = sinjang | 신장을 위해 물을 마시세요. = sinjangeul wihae mureul masiseyo.
+맥박 = maekbak | 의사가 맥박을 쟀어요. = uisaga maekbageul jaesseoyo.
+정맥 = jeongmaek | 간호사가 정맥을 찾았어요. = ganhosaga jeongmaegeul chajasseoyo.
+장 = jang | 섬유질은 장에 좋아요. = seomyujireun jange joayo.
+방광 = banggwang | 방광이 약해요. = banggwangi yakaeyo.
+신경 = singyeong | 이의 신경이 아파요. = iui singyeongi apayo.
+혈관 = hyeolgwan | 혈관은 피를 운반해요. = hyeolgwaneun pireul unbanhaeyo.
+림프샘 = rimpeusaem | 림프샘이 부었어요. = rimpeusaemi bueosseoyo.
+소화 = sohwa | 식후 산책은 소화를 도와요. = siku sanchaegeun sohwareul dowayo.
+어머니 = eomeoni | 어머니는 아흔 살이세요. = eomeonineun aheun sariseyo.
+아버지 = abeoji | 아버지는 선생님이셨어요. = abeojineun seonsaengnimisyeosseoyo.
+아들 = adeul | 아들은 캐나다에 살아요. = adeureun kaenadae sarayo.
+딸 = ttal | 딸이 매일 전화해요. = ttari maeil jeonhwahaeyo.
+남편 = nampyeon | 이 사람은 제 남편이에요. = i sarameun je nampyeonieyo.
+아내 = anae | 아내는 요리를 아주 잘해요. = anaeneun yorireul aju jalhaeyo.
+손자 = sonja | 손자는 다섯 살이에요. = sonjaneun daseot sarieyo.
+손녀 = sonnyeo | 손녀는 그림 그리기를 좋아해요. = sonnyeoneun geurim geurigireul joahaeyo.
+할머니 = halmeoni | 할머니는 이야기를 잘하세요. = halmeonineun iyagireul jalhaseyo.
+할아버지 = harabeoji | 할아버지는 차를 좋아하세요. = harabeojineun chareul joahaseyo.
+형제 = hyeongje | 형제가 두 명 있어요. = hyeongjega du myeong isseoyo.
+자매 = jamae | 언니는 우리 집 근처에 살아요. = eonnineun uri jip geuncheoe sarayo.
+삼촌 = samchon | 삼촌은 농장을 가지고 있어요. = samchoneun nongjangeul gajigo isseoyo.
+이모 = imo | 이모가 우리 집에 오셨어요. = imoga uri jibe osyeosseoyo.
+사촌 = sachon | 사촌은 의사예요. = sachoneun uisayeyo.
+며느리 = myeoneuri | 며느리는 미국 사람이에요. = myeoneurineun miguk saramieyo.
+기쁘다 = gippeuda | 만나서 정말 기뻐요. = mannaseo jeongmal gippeoyo.
+슬프다 = seulpeuda | 슬퍼하지 마세요. = seulpeohaji maseyo.
+피곤하다 = pigonhada | 오늘은 좀 피곤해요. = oneureun jom pigonhaeyo.
+화나다 = hwanada | 화내지 마세요. = hwanaeji maseyo.
+걱정되다 = geokjeongdoeda | 아들이 걱정돼요. = adeuri geokjeongdwaeyo.
+신나다 = sinnada | 아이들이 신났어요. = aideuri sinnasseoyo.
+심심하다 = simsimhada | 집에 있으니 심심해요. = jibe isseuni simsimhaeyo.
+무섭다 = museopda | 개가 무서워요. = gaega museowoyo.
+외롭다 = oeropda | 가끔 외로워요. = gakkeum oerowoyo.
+자랑스럽다 = jarangseureopda | 당신이 자랑스러워요. = dangsini jarangseureowoyo.
+놀라다 = nollada | 그 말을 듣고 놀랐어요. = geu mareul deutgo nollasseoyo.
+긴장되다 = ginjangdoeda | 비행기를 타서 긴장돼요. = bihaenggireul taseo ginjangdwaeyo.
+침착하다 = chimchakada | 침착하세요. = chimchakaseyo.
+편안하다 = pyeonanhada | 바닷가에 있으면 편안해요. = badatgae isseumyeon pyeonanhaeyo.
+헷갈리다 = hetgallida | 헷갈려요. 다시 말해 주시겠어요? = hetgallyeoyo. dasi malhae jusigesseoyo?
+감사하다 = gamsahada | 도와주셔서 정말 감사해요. = dowajusyeoseo jeongmal gamsahaeyo.
+생일 = saengil | 생일 축하해요! = saengil chukahaeyo!
+파티 = pati | 제 파티에 오세요. = je patie oseyo.
+선물 = seonmul | 이 선물은 당신 거예요. = i seonmureun dangsin geoyeyo.
+결혼식 = gyeolhonsik | 손녀의 결혼식은 오월이에요. = sonnyeoui gyeolhonsigeun oworieyo.
+태어나다 = taeeonada | 저는 천구백육십 년에 태어났어요. = jeoneun cheongubaegyuksim nyeone taeeonasseoyo.
+결혼하다 = gyeolhonhada | 결혼한 지 사십 년이 됐어요. = gyeolhonhan ji sasim nyeoni dwaesseoyo.
+축하하다 = chukahada | 같이 축하해요. = gachi chukahaeyo.
+명절 = myeongjeol | 설날은 가장 큰 명절이에요. = seollareun gajang keun myeongjeorieyo.
+기념일 = ginyeomil | 오늘은 결혼 사십 주년 기념일이에요. = oneureun gyeolhon sasip junyeon ginyeomirieyo.
+은퇴 = euntoe | 은퇴 생활을 즐기고 있어요. = euntoe saenghwareul jeulgigo isseoyo.
+졸업 = joreop | 그의 졸업식에 갔어요. = geuui joreopsige gasseoyo.
+초대 = chodae | 초대해 주셔서 감사해요. = chodaehae jusyeoseo gamsahaeyo.
+약혼하다 = yakonhada | 손자가 막 약혼했어요. = sonjaga mak yakonhaesseoyo.
+축하합니다 = chukahamnida | 아기 탄생을 축하합니다! = agi tansaengeul chukahamnida!
+장례식 = jangnyesik | 장례식은 금요일이에요. = jangnyesigeun geumyoirieyo.
+이혼하다 = ihonhada | 그들은 작년에 이혼했어요. = geudeureun jangnyeone ihonhaesseoyo.
+아기 = agi | 정말 귀여운 아기네요! = jeongmal gwiyeoun agineyo!
+아이 = ai | 아이가 자고 있어요. = aiga jago isseoyo.
+장난감 = jangnangam | 그는 이 장난감을 좋아해요. = geuneun i jangnangameul joahaeyo.
+젖병 = jeotbyeong | 젖병을 데워 주세요. = jeotbyeongeul dewo juseyo.
+임신하다 = imsinhada | 딸이 임신했어요. = ttari imsinhaesseoyo.
+쌍둥이 = ssangdungi | 그 아이들은 쌍둥이예요. = geu aideureun ssangdungiyeyo.
+아기 침대 = agi chimdae | 아기는 아기 침대에 있어요. = agineun agi chimdaee isseoyo.
+기저귀 = gijeogwi | 아기 기저귀를 갈아야 해요. = agi gijeogwireul garaya haeyo.
+유모차 = yumocha | 유모차를 끌고 공원에 가요. = yumochareul kkeulgo gongwone gayo.
+곰 인형 = gom inhyeong | 그녀는 곰 인형을 안고 자요. = geunyeoneun gom inhyeongeul ango jayo.
+공갈 젖꼭지 = gonggal jeotkkokji | 공갈 젖꼭지가 어디 있어요? = gonggal jeotkkokjiga eodi isseoyo?
+턱받이 = teokbaji | 턱받이를 해 주세요. = teokbajireul hae juseyo.
+기다 = gida | 아기가 이제 길 수 있어요. = agiga ije gil su isseoyo.
+걸음마 하는 아이 = georeumma haneun ai | 아이가 걷는 연습을 하고 있어요. = aiga geonneun yeonseubeul hago isseoyo.
+아기 돌보미 = agi dolbomi | 오늘은 제가 아기를 봐요. = oneureun jega agireul bwayo.
+유치원 = yuchiwon | 유치원에 그를 데리러 가요. = yuchiwone geureul derireo gayo.
+잠에서 깨다 = jameseo kkaeda | 여섯 시에 잠에서 깨요. = yeoseot sie jameseo kkaeyo.
+일어나다 = ireonada | 일찍 일어나요. = iljjik ireonayo.
+이를 닦다 = ireul dakda | 하루에 두 번 이를 닦으세요. = harue du beon ireul dakkeuseyo.
+옷을 입다 = oseul ipda | 옷 입어요, 나갈 거예요. = ot ibeoyo, nagal geoyeyo.
+샤워하다 = syawohada | 아침에 샤워해요. = achime syawohaeyo.
+차를 끓이다 = chareul kkeurida | 매일 아침 차를 끓여요. = maeil achim chareul kkeuryeoyo.
+산책하다 = sanchaekada | 저녁 먹고 산책해요. = jeonyeong meokgo sanchaekaeyo.
+낮잠을 자다 = natjameul jada | 점심 먹고 낮잠을 자요. = jeomsim meokgo natjameul jayo.
+텔레비전을 보다 = tellebijeoneul boda | 저녁에는 텔레비전을 봐요. = jeonyeogeneun tellebijeoneul bwayo.
+자다 = jada | 열 시에 자요. = yeol sie jayo.
+약을 먹다 = yageul meokda | 약 먹는 거 잊지 마세요. = yang meongneun geo itji maseyo.
+장 보러 가다 = jang boreo gada | 토요일에 장 보러 가요. = toyoire jang boreo gayo.
+운동하다 = undonghada | 공원에서 운동해요. = gongwoneseo undonghaeyo.
+머리를 빗다 = meorireul bitda | 나가기 전에 머리를 빗으세요. = nagagi jeone meorireul biseuseyo.
+신문을 읽다 = sinmuneul ikda | 할아버지는 신문을 읽으세요. = harabeojineun sinmuneul ilgeuseyo.
+알람을 맞추다 = allameul matchuda | 알람을 일곱 시로 맞추세요. = allameul ilgop siro matchuseyo.
+친절하다 = chinjeolhada | 정말 친절하시네요. = jeongmal chinjeolhasineyo.
+다정하다 = dajeonghada | 이웃들이 다정해요. = iutdeuri dajeonghaeyo.
+재미있다 = jaemiitda | 손자는 아주 재미있어요. = sonjaneun aju jaemiisseoyo.
+수줍다 = sujupda | 그녀는 좀 수줍어해요. = geunyeoneun jom sujubeohaeyo.
+조용하다 = joyonghada | 그는 조용하지만 착해요. = geuneun joyonghajiman chakaeyo.
+게으르다 = geeureuda | 우리 고양이는 정말 게을러요. = uri goyangineun jeongmal geeulleoyo.
+똑똑하다 = ttokttokada | 정말 똑똑한 아이네요! = jeongmal ttokttokan aineyo!
+용감하다 = yonggamhada | 정말 용감하시네요. = jeongmal yonggamhasineyo.
+참을성 있다 = chameulseong itda | 저한테 좀 참을성 있게 대해 주세요. = jeohante jom chameulseong itge daehae juseyo.
+정직하다 = jeongjikada | 그는 정직한 사람이에요. = geuneun jeongjikan saramieyo.
+예의 바르다 = yeui bareuda | 아이들이 아주 예의 발라요. = aideuri aju yeui ballayo.
+무례하다 = muryehada | 그건 무례해요. = geugeon muryehaeyo.
+조심하다 = josimhada | 계단에서 조심하세요. = gyedaneseo josimhaseyo.
+명랑하다 = myeongnanghada | 그녀는 항상 명랑해요. = geunyeoneun hangsang myeongnanghaeyo.
+너그럽다 = neogeureopda | 고마워요, 정말 너그러우시네요. = gomawoyo, jeongmal reogeureousineyo.
+부지런하다 = bujireonhada | 부모님은 부지런하셨어요. = bumonimeun bujireonhasyeosseoyo.
+걷다 = geotda | 매일 걸어요. = maeil georeoyo.
+뛰다 = ttwida | 계단에서 뛰지 마세요. = gyedaneseo ttwiji maseyo.
+앉다 = anda | 앉으세요. = anjeuseyo.
+서다 = seoda | 천천히 일어서세요. = cheoncheonhi ireoseoseyo.
+점프하다 = jeompeuhada | 아이들이 침대에서 뛰어요. = aideuri chimdaeeseo ttwieoyo.
+노래하다 = noraehada | 합창단에서 노래해요. = hapchangdaneseo noraehaeyo.
+춤추다 = chumchuda | 광장에서 춤을 춰요. = gwangjangeseo chumeul chwoyo.
+그리다 = geurida | 고양이를 그릴 수 있어요? = goyangireul geuril su isseoyo?
+들다 = deulda | 이 가방 좀 들어 줄래요? = i gabang jom deureo jullaeyo?
+밀다 = milda | 문을 미세요. = muneul miseyo.
+당기다 = danggida | 밀지 말고 당기세요. = milji malgo danggiseyo.
+던지다 = deonjida | 공을 저한테 던지세요. = gongeul jeohante deonjiseyo.
+잡다 = japda | 잡아! = jaba!
+오르다 = oreuda | 계단을 빨리 못 올라가요. = gyedaneul ppalli mot ollagayo.
+들어 올리다 = deureo ollida | 무거운 것을 들지 마세요. = mugeoun geoseul deulji maseyo.
+구부리다 = guburida | 무릎을 구부리세요. = mureubeul guburiseyo.
+키가 크다 = kiga keuda | 아들은 키가 아주 커요. = adeureun kiga aju keoyo.
+키가 작다 = kiga jakda | 저는 키가 좀 작아요. = jeoneun kiga jom jagayo.
+젊다 = jeomda | 젊어 보이세요! = jeolmeo boiseyo!
+늙다 = neukda | 나이가 들어 가요. = naiga deureo gayo.
+예쁘다 = yeppeuda | 정말 예쁜 아가씨네요. = jeongmal yeppeun agassineyo.
+잘생기다 = jalsaenggida | 손자가 잘생겼네요. = sonjaga jalsaenggyeonneyo.
+날씬하다 = nalssinhada | 그녀는 날씬해요. = geunyeoneun nalssinhaeyo.
+턱수염 = teoksuyeom | 남편은 턱수염이 있어요. = nampyeoneun teoksuyeomi isseoyo.
+이발 = ibal | 이발해야 해요. = ibalhaeya haeyo.
+곱슬머리 = gopseulmeori | 그녀는 곱슬머리예요. = geunyeoneun gopseulmeoriyeyo.
+생머리 = saengmeori | 저는 생머리예요. = jeoneun saengmeoriyeyo.
+흰머리 = hinmeori | 이제 흰머리가 났어요. = ije hinmeoriga nasseoyo.
+대머리 = daemeori | 아버지는 대머리가 되셨어요. = abeojineun daemeoriga doesyeosseoyo.
+콧수염 = kotsuyeom | 그는 콧수염이 있어요. = geuneun kotsuyeomi isseoyo.
+포니테일 = poniteil | 손녀는 머리를 하나로 묶어요. = sonnyeoneun meorireul hanaro mukkeoyo.
+주름 = jureum | 주름이 좀 있어요. = jureumi jom isseoyo.
+셔츠 = syeocheu | 이 셔츠는 너무 커요. = i syeocheuneun neomu keoyo.
+티셔츠 = tisyeocheu | 빨간 티셔츠를 샀어요. = ppalgan tisyeocheureul sasseoyo.
+바지 = baji | 이 바지는 너무 길어요. = i bajineun neomu gireoyo.
+원피스 = wonpiseu | 정말 예쁜 원피스네요! = jeongmal yeppeun wonpiseuneyo!
+치마 = chima | 그녀는 치마를 입고 있어요. = geunyeoneun chimareul ipgo isseoyo.
+코트 = koteu | 추우니까 코트를 가져가세요. = chuunikka koteureul gajeogaseyo.
+재킷 = jaekit | 따뜻한 재킷이 필요해요. = ttatteutan jaekisi piryohaeyo.
+스웨터 = seuweteo | 아내가 이 스웨터를 떴어요. = anaega i seuweteoreul tteosseoyo.
+청바지 = cheongbaji | 청바지는 편해요. = cheongbajineun pyeonhaeyo.
+반바지 = banbaji | 여름에는 반바지를 입어요. = yeoreumeneun banbajireul ibeoyo.
+양말 = yangmal | 새 양말이 필요해요. = sae yangmari piryohaeyo.
+잠옷 = jamot | 잠옷을 입으세요. = jamoseul ibeuseyo.
+속옷 = sogot | 속옷을 좀 챙기세요. = sogoseul jom chaenggiseyo.
+러닝셔츠 = reoningsyeocheu | 셔츠 안에 러닝셔츠를 입어요. = syeocheu ane reoningsyeocheureul ibeoyo.
+정장 = jeongjang | 그는 결혼식에 정장을 입었어요. = geuneun gyeolhonsige jeongjangeul ibeosseoyo.
+유니폼 = yunipom | 간호사는 유니폼을 입어요. = ganhosaneun yunipomeul ibeoyo.
+사이즈 = saijeu | 사이즈가 어떻게 되세요? = saijeuga eotteoke doeseyo?
+스몰 = seumol | 스몰 사이즈 있어요? = seumol saijeu isseoyo?
+미디엄 = midieom | 미디엄을 입어요. = midieomeul ibeoyo.
+라지 = raji | 라지로 주세요. = rajiro juseyo.
+입어 보다 = ibeo boda | 이거 입어 봐도 돼요? = igeo ibeo bwado dwaeyo?
+꽉 끼다 = kkwak kkida | 너무 꽉 껴요. = neomu kkwak kkyeoyo.
+헐렁하다 = heolleonghada | 이 바지는 헐렁해요. = i bajineun heolleonghaeyo.
+주머니 = jumeoni | 주머니에 있어요. = jumeonie isseoyo.
+단추 = danchu | 단추가 하나 없어요. = danchuga hana eopsseoyo.
+지퍼 = jipeo | 지퍼가 고장 났어요. = jipeoga gojang nasseoyo.
+소매 = somae | 소매가 너무 길어요. = somaega neomu gireoyo.
+옷깃 = otgit | 옷깃이 더러워요. = otgisi deoreowoyo.
+탈의실 = taruisil | 탈의실이 어디예요? = taruisiri eodiyeyo?
+면 = myeon | 이 셔츠는 면 백 퍼센트예요. = i syeocheuneun myeon baek peosenteuyeyo.
+양모 = yangmo | 양모 스웨터는 따뜻해요. = yangmo seuweteoneun ttatteutaeyo.
+실크 = silkeu | 이 스카프는 실크로 만들었어요. = i seukapeuneun silkeuro mandeureosseoyo.
+모자 = moja | 모자 잊지 마세요. = moja itji maseyo.
+목도리 = mokdori | 바람이 부니까 목도리를 하세요. = barami bunikka mokdorireul haseyo.
+장갑 = janggap | 장갑 덕분에 손이 따뜻해요. = janggap deokbune soni ttatteutaeyo.
+야구 모자 = yagu moja | 할아버지는 야구 모자를 쓰세요. = harabeojineun yagu mojareul sseuseyo.
+넥타이 = nektai | 그는 넥타이를 매고 출근해요. = geuneun nektaireul maego chulgeunhaeyo.
+비옷 = biot | 비옷을 가져가세요. = bioseul gajeogaseyo.
+앞치마 = apchima | 요리할 때는 앞치마를 두르세요. = yorihal ttaeneun apchimareul dureuseyo.
+수영복 = suyeongbok | 새 수영복이 필요해요. = sae suyeongbogi piryohaeyo.
+블라우스 = beullauseu | 이 블라우스는 예뻐요. = i beullauseuneun yeppeoyo.
+카디건 = kadigeon | 집에서는 카디건을 입어요. = jibeseoneun kadigeoneul ibeoyo.
+후드 티 = hudeu ti | 손자는 후드 티를 좋아해요. = sonjaneun hudeu tireul joahaeyo.
+패딩 = paeding | 패딩은 아주 따뜻해요. = paedingeun aju ttatteutaeyo.
+세일 중 = seil jung | 이 코트들은 세일 중이에요. = i koteudeureun seil jungieyo.
+빨다 = ppalda | 찬물에 빠세요. = chanmure ppaseyo.
+개다 = gaeda | 옷을 개세요. = oseul gaeseyo.
+세련되다 = seryeondoeda | 정말 세련됐네요. = jeongmal seryeondwaenneyo.
+가방 = gabang | 가방이 무거워요. = gabangi mugeowoyo.
+손목시계 = sonmoksigye | 손목시계가 늦게 가요. = sonmoksigyega neutge gayo.
+안경 = angyeong | 제 안경 어디 있어요? = je angyeong eodi isseoyo?
+반지 = banji | 이건 결혼반지예요. = igeon gyeolhonbanjiyeyo.
+우산 = usan | 우산을 가져가세요. = usaneul gajeogaseyo.
+지갑 = jigap | 지갑을 잃어버렸어요! = jigabeul ireobeoryeosseoyo!
+벨트 = belteu | 새 벨트가 필요해요. = sae belteuga piryohaeyo.
+목걸이 = mokgeori | 정말 예쁜 목걸이네요. = jeongmal yeppeun mokgeorineyo.
+귀걸이 = gwigeori | 그녀는 진주 귀걸이를 했어요. = geunyeoneun jinju gwigeorireul haesseoyo.
+선글라스 = seongeullaseu | 햇빛이 강할 때는 선글라스를 쓰세요. = haetbichi ganghal ttaeneun seongeullaseureul sseuseyo.
+팔찌 = paljji | 딸이 이 팔찌를 줬어요. = ttari i paljjireul jwosseoyo.
+핸드백 = haendeubaek | 핸드백은 차 안에 있어요. = haendeubaegeun cha ane isseoyo.
+배낭 = baenang | 여행할 때 배낭을 메요. = yeohaenghal ttae baenangeul meyo.
+손수건 = sonsugeon | 손수건 있어요? = sonsugeon isseoyo?
+브로치 = beurochi | 이 브로치는 어머니 거였어요. = i beurochineun eomeoni geoyeosseoyo.
+보석 = boseok | 보석은 상자에 보관해요. = boseogeun sangjae bogwanhaeyo.
+신발 = sinbal | 이 신발은 편해요. = i sinbareun pyeonhaeyo.
+부츠 = bucheu | 겨울에는 부츠를 신어요. = gyeoureneun bucheureul sineoyo.
+운동화 = undonghwa | 운동화를 신고 걸어요. = undonghwareul singo georeoyo.
+슬리퍼 = seullipeo | 슬리퍼를 신으세요. = seullipeoreul sineuseyo.
+샌들 = saendeul | 여름에는 샌들이 좋아요. = yeoreumeneun saendeuri joayo.
+켤레 = kyeolle | 신발 한 켤레를 샀어요. = sinbal han kyeollereul sasseoyo.
+하이힐 = haihil | 하이힐을 신고는 못 걸어요. = haihireul singoneun mot georeoyo.
+신발 끈 = sinbal kkeun | 신발 끈이 풀렸어요. = sinbal kkeuni pullyeosseoyo.
+가죽 = gajuk | 이건 가죽 신발이에요. = igeon gajuk sinbarieyo.
+편하다 = pyeonhada | 신발이 편해요? = sinbari pyeonhaeyo?
+굽 낮은 신발 = gum najeun sinbal | 걸을 때는 굽 낮은 신발이 더 좋아요. = georeul ttaeneun gum najeun sinbari deo joayo.
+장화 = janghwa | 오늘은 장화를 신으세요. = oneureun janghwareul sineuseyo.
+등산화 = deungsanhwa | 등산화가 필요해요. = deungsanhwaga piryohaeyo.
+깔창 = kkalchang | 이 깔창은 부드러워요. = i kkalchangeun budeureowoyo.
+구두약 = guduyak | 구두약으로 신발을 닦으세요. = guduyageuro sinbareul dakkeuseyo.
+구둣주걱 = gudutjugeok | 구둣주걱을 쓰세요. = gudutjugeogeul sseuseyo.
+거울 = geoul | 거울을 보세요. = geoureul boseyo.
+빗 = bit | 제 빗 어디 있어요? = je bit eodi isseoyo?
+비누 = binu | 비누로 씻으세요. = binuro ssiseuseyo.
+샴푸 = syampu | 샴푸가 떨어졌어요. = syampuga tteoreojeosseoyo.
+크림 = keurim | 크림을 좀 바르세요. = keurimeul jom bareuseyo.
+립스틱 = ripseutik | 이 빨간 립스틱이 좋아요. = i ppalgal ripseutigi joayo.
+향수 = hyangsu | 향수 냄새가 좋네요. = hyangsu naemsaega jonneyo.
+화장 = hwajang | 화장을 많이 안 해요. = hwajangeul mani an haeyo.
+매니큐어 = maenikyueo | 분홍색 매니큐어로 해 주세요. = bunhongsaeng maenikyueoro hae juseyo.
+헤어드라이어 = heeodeuraieo | 헤어드라이어 좀 빌려도 돼요? = heeodeuraieo jom billyeodo dwaeyo?
+선크림 = seonkeurim | 선크림을 바르세요. = seonkeurimeul bareuseyo.
+로션 = rosyeon | 이 로션은 건성 피부용이에요. = i rosyeoneun geonseong pibuyongieyo.
+면도기 = myeondogi | 새 면도기가 필요해요. = sae myeondogiga piryohaeyo.
+마사지 = masaji | 마사지를 받으면 등이 편해져요. = masajireul badeumyeon deungi pyeonhaejeoyo.
+네일 관리 = neil gwalli | 네일 관리를 받았어요. = neil gwallireul badasseoyo.
+미용실 = miyongsil | 그녀는 미용실에 가요. = geunyeoneun miyongsire gayo.
+감기 = gamgi | 감기에 걸렸어요. = gamgie geollyeosseoyo.
+열 = yeol | 열이 있어요. = yeori isseoyo.
+기침 = gichim | 기침이 심해요. = gichimi simhaeyo.
+두통 = dutong | 머리가 아파요. = meoriga apayo.
+통증 = tongjeung | 여기가 아파요. = yeogiga apayo.
+아프다 = apeuda | 몸이 안 좋아요. = momi an joayo.
+상처 = sangcheo | 손에 상처가 났어요. = sone sangcheoga nasseoyo.
+독감 = dokgam | 독감에 걸린 것 같아요. = dokgame geollin geot gatayo.
+어지럽다 = eojireopda | 어지러워요. = eojireowoyo.
+치통 = chitong | 이가 아파요. = iga apayo.
+부러지다 = bureojida | 팔이 부러진 것 같아요. = pari bureojin geot gatayo.
+삐다 = ppida | 그냥 삔 거예요. = geunyang ppin geoyeyo.
+멍 = meong | 다리에 멍이 들었어요. = darie meongi deureosseoyo.
+화상 = hwasang | 요리하다가 화상을 입었어요. = yorihadaga hwasangeul ibeosseoyo.
+알레르기 = allereugi | 견과류 알레르기가 있어요. = gyeongwaryu allereugiga isseoyo.
+고혈압 = gohyeorap | 고혈압이 있어요. = gohyeorabi isseoyo.
+의사 = uisa | 의사한테 진찰을 받아야 해요. = uisahante jinchareul badaya haeyo.
+간호사 = ganhosa | 간호사가 도와드릴 거예요. = ganhosaga dowadeuril geoyeyo.
+약 = yak | 이 약은 식후에 드세요. = i yageun sikue deuseyo.
+예약 = yeyak | 열 시에 예약이 있어요. = yeol sie yeyagi isseoyo.
+대기실 = daegisil | 대기실에서 기다려 주세요. = daegisireseo gidaryeo juseyo.
+체온 = cheon | 체온을 재 볼게요. = cheoneul jae bolgeyo.
+알약 = aryak | 하루에 두 번, 한 알씩 드세요. = harue du beon, han alssik deuseyo.
+증상 = jeungsang | 어떤 증상이 있으세요? = eotteon jeungsangi isseuseyo?
+혈압 = hyeorap | 혈압을 재 볼게요. = hyeorabeul jae bolgeyo.
+건강 검진 = geongang geomjin | 매년 건강 검진을 받아요. = maenyeon geongang geomjineul badayo.
+처방전 = cheobangjeon | 처방전 여기 있어요. = cheobangjeon yeogi isseoyo.
+주사 = jusa | 주사를 맞아야 해요. = jusareul majaya haeyo.
+백신 = baeksin | 독감 백신 맞으셨어요? = dokgam baeksin majeusyeosseoyo?
+청진기 = cheongjingi | 의사는 청진기를 써요. = uisaneun cheongjingireul sseoyo.
+진단 = jindan | 진단이 뭐예요? = jindani mwoyeyo?
+부작용 = bujagyong | 부작용이 있나요? = bujagyongi innayo?
+병원 = byeongwon | 가장 가까운 병원이 어디예요? = gajang gakkaun byeongwoni eodiyeyo?
+구급차 = gugeupcha | 구급차를 불러 주세요! = gugeupchareul bulleo juseyo!
+환자 = hwanja | 환자는 쉬고 있어요. = hwanjaneun swigo isseoyo.
+병상 = byeongsang | 환자는 십이 번 병상에 있어요. = hwanjaneun sibi beon byeongsange isseoyo.
+휠체어 = hwilcheeo | 휠체어가 필요해요. = hwilcheeoga piryohaeyo.
+응급실 = eunggeupsil | 응급실이 어디예요? = eunggeupsiri eodiyeyo?
+병동 = byeongdong | 그녀는 어느 병동에 있어요? = geunyeoneun eoneu byeongdonge isseoyo?
+수술 = susul | 수술은 잘됐어요. = susureun jaldwaesseoyo.
+외과 의사 = oegwa uisa | 외과 의사가 지금 보실 거예요. = oegwa uisaga jigeum bosil geoyeyo.
+링거 = ringgeo | 그는 링거를 맞고 있어요. = geuneul ringgeoreul matgo isseoyo.
+목발 = mokbal | 목발을 짚고 걸어요. = mokbareul jipgo georeoyo.
+들것 = deulgeot | 그는 들것에 실려 갔어요. = geuneun deulgeose sillyeo gasseoyo.
+정밀 검사 = jeongmil geomsa | 정밀 검사를 받아야 해요. = jeongmil geomsareul badaya haeyo.
+면회 시간 = myeonhoe sigan | 면회 시간이 언제예요? = myeonhoe sigani eonjeyeyo?
+전문의 = jeonmunui | 전문의에게 보내 드릴게요. = jeonmunuiege bonae deurilgeyo.
+회복하다 = hoebokada | 빨리 회복하시길 바라요. = ppalli hoebokasigil barayo.
+이 = i | 안 좋은 이가 있어요. = an joeun iga isseoyo.
+치과 의사 = chigwa uisa | 일 년에 두 번 치과에 가요. = il ryeone du beon chigwae gayo.
+칫솔 = chitsol | 새 칫솔이 필요해요. = sae chitsori piryohaeyo.
+치약 = chiyak | 치약이 필요해요. = chiyagi piryohaeyo.
+안경점 = angyeongjeom | 안경점에 가야 해요. = angyeongjeome gaya haeyo.
+시력 검사 = siryeok geomsa | 오늘 시력 검사가 있어요. = oneul siryeok geomsaga isseoyo.
+충전 치료 = chungjeon chiryo | 이를 때워야 해요. = ireul ttaewoya haeyo.
+잇몸 = inmom | 잇몸에서 피가 나요. = inmomeseo piga nayo.
+틀니 = teulli | 매일 밤 틀니를 닦아요. = maeil bam teullireul dakkayo.
+돋보기 = dotbogi | 돋보기가 필요해요. = dotbogiga piryohaeyo.
+치실 = chisil | 매일 치실을 쓰세요. = maeil chisireul sseuseyo.
+안경테 = angyeongte | 이 안경테가 마음에 들어요. = i angyeongtega maeume deureoyo.
+렌즈 = renjeu | 렌즈에 흠집이 났어요. = renjeue heumjibi nasseoyo.
+콘택트렌즈 = kontaekteurenjeu | 콘택트렌즈를 껴요. = kontaekteurenjeureul kkyeoyo.
+근시 = geunsi | 저는 근시예요. = jeoneun geunsiyeyo.
+크라운 = keuraun | 이 이에 크라운을 씌워야 해요. = i ie keurauneul ssiwoya haeyo.
+건강하다 = geonganghada | 건강한 음식을 드세요. = geonganghan eumsigeul deuseyo.
+물 = mul | 물을 더 많이 드세요. = mureul deo mani deuseyo.
+소금 = sogeum | 소금을 너무 많이 먹으면 몸에 나빠요. = sogeumeul reomu mani meogeumyeon mome nappayo.
+설탕 = seoltang | 설탕은 안 넣어요. = seoltangeun an neoeoyo.
+기름 = gireum | 기름을 적게 쓰세요. = gireumeul jeokge sseuseyo.
+지방 = jibang | 이 음식은 지방이 많아요. = i eumsigeun jibangi manayo.
+비타민 = bitamin | 과일에는 비타민이 많아요. = gwaireneun bitamini manayo.
+단백질 = danbaekjil | 달걀은 단백질이 풍부해요. = dalgyareun danbaekjiri pungbuhaeyo.
+칼슘 = kalsyum | 우유에는 칼슘이 있어요. = uyueneun kalsyumi isseoyo.
+섬유질 = seomyujil | 섬유질을 더 많이 드세요. = seomyujireul deo mani deuseyo.
+식단 = sikdan | 저염식을 하고 있어요. = jeoyeomsigeul hago isseoyo.
+칼로리 = kallori | 이건 몇 칼로리예요? = igeon myeot kalloriyeyo?
+저지방 = jeojibang | 저지방 우유를 사요. = jeojibang uyureul sayo.
+채식주의자 = chaesikjuuija | 손녀는 채식주의자예요. = sonnyeoneun chaesikjuuijayeyo.
+균형 잡힌 = gyunhyeong japin | 균형 잡힌 식사를 하세요. = gyunhyeong japin siksareul haseyo.
+영양 = yeongyang | 좋은 영양은 중요해요. = joeun yeongyangeun jungyohaeyo.
+운동 = undong | 운동은 몸에 좋아요. = undongeun mome joayo.
+잠 = jam | 잠을 더 자야 해요. = jameul deo jaya haeyo.
+휴식 = hyusik | 좀 쉬세요. = jom swiseyo.
+긴장을 풀다 = ginjangeul pulda | 긴장을 푸세요. = ginjangeul puseyo.
+걷기 = geotgi | 걷기는 아주 좋은 운동이에요. = geotgineun aju joeun undongieyo.
+요가 = yoga | 월요일마다 요가를 해요. = woryoilmada yogareul haeyo.
+태극권 = taegeukgwon | 매일 아침 태극권을 해요. = maeil achim taegeukgwoneul haeyo.
+숨 쉬다 = sum swida | 숨을 들이쉬고, 내쉬세요. = sumeul deuriswigo, naeswiseyo.
+스트레칭 = seuteureching | 운동하기 전에 스트레칭을 하세요. = undonghagi jeone seuteurechingeul haseyo.
+맑은 공기 = malgeun gonggi | 맑은 공기 좀 마시러 가요. = malgeun gonggi jom masireo gayo.
+몸무게 = mommuge | 매주 몸무게를 재요. = maeju mommugereul jaeyo.
+건강해 보이다 = geonganghae boida | 건강해 보이세요! = geonganghae boiseyo!
+기분 = gibun | 음악을 들으면 기분이 좋아져요. = eumageul deureumyeon gibuni joajeoyo.
+스트레스 = seuteureseu | 스트레스를 너무 많이 받으면 몸에 나빠요. = seuteureseureul reomu mani badeumyeon mome nappayo.
+기억력 = gieongnyeok | 한국어 공부는 기억력에 좋아요. = hangugeo gongbuneun gieongnyeoge joayo.
+명상 = myeongsang | 명상을 하면 잠이 잘 와요. = myeongsangeul hamyeon jami jal wayo.
+먹다 = meokda | 먹읍시다! = meogeupsida!
+마시다 = masida | 뭐 마실래요? = mwo masillaeyo?
+배고프다 = baegopeuda | 배고파요. = baegopayo.
+목마르다 = mongmareuda | 목말라요. = mongmallayo.
+배부르다 = baebureuda | 배불러요, 고마워요. = baebulleoyo, gomawoyo.
+맛있다 = masitda | 정말 맛있어요! = jeongmal masisseoyo!
+달다 = dalda | 너무 달아요. = neomu darayo.
+시다 = sida | 레몬은 셔요. = remoneun syeoyo.
+짜다 = jjada | 국이 좀 짜요. = gugi jom jjayo.
+맵다 = maepda | 매워요? = maewoyo?
+쓰다 = sseuda | 이 커피는 써요. = i keopineun sseoyo.
+차 = cha | 차 드실래요? = cha deusillaeyo?
+국 = guk | 국이 뜨거워요. = gugi tteugeowoyo.
+씹다 = ssipda | 천천히 씹으세요. = cheoncheonhi ssibeuseyo.
+삼키다 = samkida | 삼키기가 힘들어요. = samkigiga himdeureoyo.
+한 모금 = han mogeum | 한 모금만 드세요. = han mogeumman deuseyo.
+고기 = gogi | 고기를 많이 안 먹어요. = gogireul mani an meogeoyo.
+닭고기 = dakgogi | 닭고기 수프는 감기에 좋아요. = dakgogi supeuneun gamgie joayo.
+소고기 = sogogi | 소고기 좀 주세요. = sogogi jom juseyo.
+돼지고기 = dwaejigogi | 돼지고기 오백 그램 주세요. = dwaejigogi obaek geuraem juseyo.
+양고기 = yanggogi | 겨울에는 양고기가 좋아요. = gyeoureneun yanggogiga joayo.
+오리고기 = origogi | 베이징 오리구이는 유명해요. = beijing origuineun yumyeonghaeyo.
+소시지 = sosiji | 아이들은 소시지를 좋아해요. = aideureun sosijireul joahaeyo.
+햄 = haem | 햄 샌드위치 주세요. = haem saendeuwichi juseyo.
+베이컨 = beikeon | 아침으로 베이컨과 달걀을 먹어요. = achimeuro beikeongwa dalgyareul meogeoyo.
+스테이크 = seuteikeu | 스테이크는 어떻게 구워 드릴까요? = seuteikeuneun eotteoke guwo deurilkkayo?
+갈비 = galbi | 돼지갈비 주세요. = dwaejigalbi juseyo.
+닭날개 = dangnalgae | 손자는 닭날개를 좋아해요. = sonjaneun dangnalgaereul joahaeyo.
+다진 고기 = dajin gogi | 만두를 만들려면 다진 고기가 필요해요. = mandureul mandeullyeomyeon dajin gogiga piryohaeyo.
+칠면조 = chilmyeonjo | 추수감사절에는 칠면조를 먹어요. = chusugamsajeoreneun chilmyeonjoreul meogeoyo.
+정육점 = jeongyukjeom | 고기는 정육점에서 사요. = gogineun jeongyukjeomeseo sayo.
+살코기 = salkogi | 살코기로 주세요. = salkogiro juseyo.
+생선 = saengseon | 이 생선은 얼마예요? = i saengseoneun eolmayeyo?
+해산물 = haesanmul | 해산물을 아주 좋아해요. = haesanmureul aju joahaeyo.
+새우 = saeu | 새우튀김 주세요. = saeutwigim juseyo.
+게 = ge | 게는 가을에 맛있어요. = geneun gaeure masisseoyo.
+싱싱하다 = singsinghada | 이 생선 싱싱해요? = i saengseon singsinghaeyo?
+연어 = yeoneo | 연어는 몸에 좋아요. = yeoneoneun mome joayo.
+참치 = chamchi | 참치 샌드위치 주세요. = chamchi saendeuwichi juseyo.
+오징어 = ojingeo | 구운 오징어는 맛있어요. = guun ojingeoneun masisseoyo.
+바닷가재 = badatgajae | 바닷가재는 비싸요. = badatgajaeneun bissayo.
+굴 = gul | 굴 좋아하세요? = gul joahaseyo?
+대구 = daegu | 대구는 가시가 적어요. = daeguneun gasiga jeogeoyo.
+홍합 = honghap | 홍합찜 주세요. = honghapjjim juseyo.
+가리비 = garibi | 이 가리비는 달아요. = i garibineun darayo.
+미역 = miyeok | 미역국은 몸에 좋아요. = miyeokgugeun mome joayo.
+생선 살 = saengseon sal | 가시 없는 생선 살이에요. = gasi eomneun saengseon sarieyo.
+생선 가시 = saengseon gasi | 생선 가시 조심하세요. = saengseon gasi josimhaseyo.
+채소 = chaeso | 채소를 더 많이 드세요. = chaesoreul deo mani deuseyo.
+토마토 = tomato | 토마토가 세일 중이에요. = tomatoga seil jungieyo.
+감자 = gamja | 감자가 이 킬로 필요해요. = gamjaga i killo piryohaeyo.
+당근 = danggeun | 당근은 눈에 좋아요. = danggeuneun nune joayo.
+양파 = yangpa | 양파 세 개 주세요. = yangpa se gae juseyo.
+양배추 = yangbaechu | 오늘은 양배추가 싸요. = oneureun yangbaechuga ssayo.
+오이 = oi | 오이 샐러드 주세요. = oi saelleodeu juseyo.
+옥수수 = oksusu | 삶은 옥수수는 달아요. = salmeun oksusuneun darayo.
+가지 = gaji | 가지는 마늘이랑 같이 요리해요. = gajineun maneurirang gachi yorihaeyo.
+호박 = hobak | 호박죽은 달아요. = hobakjugeun darayo.
+브로콜리 = beurokolli | 브로콜리를 찌세요. = beurokollireul jjiseyo.
+상추 = sangchu | 상추를 씻으세요. = sangchureul ssiseuseyo.
+시금치 = sigeumchi | 시금치는 몸에 좋아요. = sigeumchineun mome joayo.
+셀러리 = selleori | 셀러리는 혈압에 좋아요. = selleorineun hyeorabe joayo.
+피망 = pimang | 피망 소고기 볶음이에요. = pimang sogogi bokkeumieyo.
+고구마 = goguma | 군고구마는 냄새가 좋아요. = gungogumaneun naemsaega joayo.
+완두콩 = wandukong | 완두콩은 달아요. = wandukongeun darayo.
+콩 = kong | 껍질콩 주세요. = kkeopjilkong juseyo.
+무 = mu | 겨울에는 뭇국이 좋아요. = gyeoureneun mutgugi joayo.
+청경채 = cheonggyeongchae | 청경채를 볶으세요. = cheonggyeongchaereul bokkeuseyo.
+콜리플라워 = kollipeullawo | 콜리플라워가 세일 중이에요. = kollipeullawoga seil jungieyo.
+애호박 = aehobak | 애호박은 요리하기 쉬워요. = aehobageun yorihagi swiwoyo.
+대파 = daepa | 대파 감자 수프예요. = daepa gamja supeuyeyo.
+콩나물 = kongnamul | 콩나물은 아삭아삭해요. = kongnamureun asagasakaeyo.
+연근 = yeongeun | 연근 수프를 제일 좋아해요. = yeongeun supeureul jeil joahaeyo.
+죽순 = juksun | 죽순은 봄에 싱싱해요. = juksuneun bome singsinghaeyo.
+아스파라거스 = aseuparageoseu | 아스파라거스는 비싸요. = aseuparageoseuneun bissayo.
+마 = ma | 마는 몸에 좋아요. = maneun mome joayo.
+케일 = keil | 케일은 아주 건강한 채소예요. = keireun aju geonganghan chaesoyeyo.
+비트 = biteu | 비트는 빨개요. = biteuneun ppalgaeyo.
+오크라 = okeura | 오크라는 몸에 좋아요. = okeuraneun mome joayo.
+아티초크 = atichokeu | 아티초크 먹어 본 적 있어요? = atichokeu meogeo bon jeok isseoyo?
+사과 = sagwa | 이 사과는 아주 달아요. = i sagwaneun aju darayo.
+바나나 = banana | 바나나 한 송이 주세요. = banana han songi juseyo.
+오렌지 = orenji | 오렌지에는 비타민 C가 많아요. = orenjieneun bitamin siga manayo.
+포도 = podo | 이 포도는 씨가 없어요. = i podoneun ssiga eopsseoyo.
+배 = bae | 배는 기침에 좋아요. = baeneun gichime joayo.
+복숭아 = boksunga | 복숭아가 말랑해요. = boksungaga mallanghaeyo.
+수박 = subak | 수박은 여름에 딱이에요. = subageun yeoreume ttagieyo.
+딸기 = ttalgi | 딸기를 제일 좋아해요. = ttalgireul jeil joahaeyo.
+레몬 = remon | 레몬차 주세요. = remoncha juseyo.
+체리 = cheri | 체리는 비싸요. = cherineun bissayo.
+망고 = manggo | 이 망고는 아주 달아요. = i manggoneun aju darayo.
+파인애플 = painaepeul | 파인애플을 자르세요. = painaepeureul jareuseyo.
+키위 = kiwi | 키위는 셔요. = kiwineun syeoyo.
+자두 = jadu | 이 자두는 잘 익었어요. = i jaduneun jal igeosseoyo.
+멜론 = mellon | 멜론에서 단 냄새가 나요. = melloneseo dan naemsaega nayo.
+익다 = ikda | 바나나가 익었어요? = bananaga igeosseoyo?
+견과류 = gyeongwaryu | 견과류는 건강한 간식이에요. = gyeongwaryuneun geonganghan gansigieyo.
+땅콩 = ttangkong | 땅콩 알레르기가 있어요. = ttangkong allereugiga isseoyo.
+호두 = hodu | 호두는 뇌에 좋아요. = hoduneun noee joayo.
+코코넛 = kokoneot | 코코넛 워터는 달아요. = kokoneot woteoneun darayo.
+밤 = bam | 군밤은 냄새가 좋아요. = gunbameun naemsaega joayo.
+아몬드 = amondeu | 아몬드 우유가 인기예요. = amondeu uyuga ingiyeyo.
+건포도 = geonpodo | 건포도는 달아요. = geonpodoneun darayo.
+블루베리 = beulluberi | 블루베리는 눈에 좋아요. = beulluberineun nune joayo.
+자몽 = jamong | 자몽은 좀 써요. = jamongeun jom sseoyo.
+리치 = richi | 리치는 남쪽 과일이에요. = richineun namjjok gwairieyo.
+감 = gam | 감은 가을에 익어요. = gameun gaeure igeoyo.
+석류 = seongnyu | 석류에는 씨가 많아요. = seongnyueneun ssiga manayo.
+대추 = daechu | 대추는 몸에 좋아요. = daechuneun mome joayo.
+용안 = yongan | 말린 용안은 달아요. = mallin yonganeun darayo.
+캐슈너트 = kaesyuneoteu | 캐슈너트를 제일 좋아해요. = kaesyuneoteureul jeil joahaeyo.
+피스타치오 = piseutachio | 피스타치오는 속이 초록색이에요. = piseutachioneun sogi choroksaegieyo.
+마늘 = maneul | 마늘을 좀 넣으세요. = maneureul jom neoeuseyo.
+생강 = saenggang | 생강차는 감기에 좋아요. = saenggangchaneun gamgie joayo.
+고추 = gochu | 고추는 안 먹어요. = gochuneun an meogeoyo.
+후추 = huchu | 소금과 후추를 넣으세요. = sogeumgwa huchureul reoeuseyo.
+파 = pa | 위에 파를 좀 올리세요. = wie pareul jom olliseyo.
+민트 = minteu | 민트차는 상쾌해요. = minteuchaneun sangkwaehaeyo.
+계피 = gyepi | 계피는 달콤한 냄새가 나요. = gyepineun dalkomhan naemsaega nayo.
+참깨 = chamkkae | 참기름은 냄새가 좋아요. = chamgireumeun naemsaega joayo.
+카레 = kare | 닭고기 카레를 좋아해요. = dakgogi karereul joahaeyo.
+바질 = bajil | 바질은 피자에 들어가요. = bajireun pijae deureogayo.
+고수 = gosu | 고수는 빼 주세요. = gosuneun ppae juseyo.
+팔각 = palgak | 고기에 팔각을 넣으세요. = gogie palgageul reoeuseyo.
+겨자 = gyeoja | 겨자는 매워요. = gyeojaneun maewoyo.
+파슬리 = paseulli | 파슬리를 좀 넣으세요. = paseullireul jom neoeuseyo.
+로즈메리 = rojeumeri | 로즈메리를 넣고 양고기를 구워요. = rojeumerireul reoko yanggogireul guwoyo.
+화자오 = hwajao | 화자오를 먹으면 입이 얼얼해요. = hwajaoreul meogeumyeon ibi eoreolhaeyo.
+쌀 = ssal | 쌀 한 포대 주세요. = ssal han podae juseyo.
+밀가루 = milgaru | 만두를 만들려면 밀가루가 필요해요. = mandureul mandeullyeomyeon milgaruga piryohaeyo.
+국수 = guksu | 점심으로 국수를 먹어요. = jeomsimeuro guksureul meogeoyo.
+꿀 = kkul | 꿀물은 몸에 좋아요. = kkulmureun mome joayo.
+잼 = jaem | 토스트에 딸기잼을 발라요. = toseuteue ttalgijaemeul ballayo.
+파스타 = paseuta | 손자는 파스타를 좋아해요. = sonjaneun paseutareul joahaeyo.
+두부 = dubu | 두부는 싸고 건강해요. = dubuneun ssago geonganghaeyo.
+간장 = ganjang | 간장을 조금 넣으세요. = ganjangeul jogeum neoeuseyo.
+식초 = sikcho | 만두는 식초에 찍어 먹어요. = manduneun sikchoe jjigeo meogeoyo.
+식용유 = sigyongnyu | 식용유가 떨어졌어요. = sigyongnyuga tteoreojeosseoyo.
+시리얼 = sirieol | 아이들은 아침으로 시리얼을 먹어요. = aideureun achimeuro sirieoreul meogeoyo.
+오트밀 = oteumil | 오트밀은 심장에 좋아요. = oteumireun simjange joayo.
+케첩 = kecheop | 감자튀김에 케첩을 찍어요. = gamjatwigime kecheobeul jjigeoyo.
+통조림 = tongjorim | 통조림은 오래가요. = tongjorimeun oraegayo.
+티백 = tibaek | 티백 하나면 충분해요. = tibae kanamyeon chungbunhaeyo.
+당면 = dangmyeon | 마늘 새우 당면이에요. = maneul saeu dangmyeonieyo.
+우유 = uyu | 우유가 어디 있어요? = uyuga eodi isseoyo?
+달걀 = dalgyal | 달걀 한 판 주세요. = dalgyal han pan juseyo.
+치즈 = chijeu | 손자는 치즈를 좋아해요. = sonjaneun chijeureul joahaeyo.
+버터 = beoteo | 빵에 버터를 바르세요. = ppange beoteoreul bareuseyo.
+요구르트 = yogureuteu | 매일 요구르트를 먹어요. = maeil yogureuteureul meogeoyo.
+아이스크림 = aiseukeurim | 아이스크림 먹어요. = aiseukeurim meogeoyo.
+두유 = duyu | 아침에 두유를 마셔요. = achime duyureul masyeoyo.
+분유 = bunyu | 아기 분유예요. = agi bunyuyeyo.
+팩 = paek | 우유 한 팩 주세요. = uyu han paek juseyo.
+탈지유 = taljiyu | 탈지유를 마셔요. = taljiyureul masyeoyo.
+생크림 = saengkeurim | 생크림 케이크예요. = saengkeurim keikeuyeyo.
+크림치즈 = keurimchijeu | 베이글에 크림치즈를 발라요. = beigeure keurimchijeureul ballayo.
+사워크림 = sawokeurim | 감자에 사워크림을 얹어요. = gamjae sawokeurimeul eonjeoyo.
+산양유 = sanyangyu | 산양유는 소화가 잘돼요. = sanyangyuneun sohwaga jaldwaeyo.
+유제품 = yujepum | 유제품을 못 먹어요. = yujepumeul mon meogeoyo.
+락토프리 = raktopeuri | 락토프리 우유 있어요? = raktopeuri uyu isseoyo?
+빵 = ppang | 이 빵은 오늘 구운 거예요? = i ppangeun oneul guun geoyeyo?
+케이크 = keikeu | 이 케이크는 맛있어요. = i keikeuneun masisseoyo.
+쿠키 = kuki | 쿠키 드세요. = kuki deuseyo.
+토스트 = toseuteu | 아침으로 토스트를 먹어요. = achimeuro toseuteureul meogeoyo.
+단팥빵 = danpatppang | 단팥빵 하나 주세요. = danpatppang hana juseyo.
+식빵 한 덩어리 = sikppang han deongeori | 식빵 한 덩어리 주세요. = sikppang han deongeori juseyo.
+조각 = jogak | 조각으로 잘라 주세요. = jogageuro jalla juseyo.
+제빵사 = jeppangsa | 제빵사는 네 시에 일어나요. = jeppangsaneun ne sie ireonayo.
+파이 = pai | 사과파이를 제일 좋아해요. = sagwapaireul jeil joahaeyo.
+머핀 = meopin | 블루베리 머핀 주세요. = beulluberi meopin juseyo.
+도넛 = doneot | 도넛은 너무 달아요. = doneoseun neomu darayo.
+크루아상 = keuruasang | 크루아상하고 커피 주세요. = keuruasanghago keopi juseyo.
+바게트 = bageteu | 바게트는 바삭해요. = bageteuneun basakaeyo.
+통밀 = tongmil | 통밀빵이 더 건강해요. = tongmilppangi deo geonganghaeyo.
+모닝빵 = moningppang | 모닝빵은 부드러워요. = moningppangeun budeureowoyo.
+빵 껍질 = ppang kkeopjil | 빵 껍질은 싫어요. = ppang kkeopjireun sireoyo.
+생일 케이크 = saengil keikeu | 생일 케이크를 주문했어요. = saengil keikeureul jumunhaesseoyo.
+컵케이크 = keopkeikeu | 아이들은 컵케이크를 좋아해요. = aideureun keopkeikeureul joahaeyo.
+월병 = wolbyeong | 추석에 월병을 먹어요. = chuseoge wolbyeongeul meogeoyo.
+찐빵 = jjinppang | 집에서 찐빵을 만들어요. = jibeseo jjinppangeul mandeureoyo.
+반죽 = banjuk | 반죽을 숙성시키세요. = banjugeul sukseongsikiseyo.
+에그타르트 = egeutareuteu | 에그타르트는 따뜻할 때 제일 맛있어요. = egeutareuteuneun ttatteutal ttae jeil masisseoyo.
+페이스트리 = peiseuteuri | 프랑스 페이스트리는 유명해요. = peurangseu peiseuteurineun yumyeonghaeyo.
+치즈케이크 = chijeukeikeu | 치즈케이크 한 조각 주세요. = chijeukeikeu han jogak juseyo.
+카스텔라 = kaseutella | 카스텔라는 부드러워요. = kaseutellaneun budeureowoyo.
+와플 = wapeul | 꿀 뿌린 와플이에요. = kkul ppurin wapeurieyo.
+타르트 = tareuteu | 딸기 타르트 주세요. = ttalgi tareuteu juseyo.
+아이싱 = aising | 아이싱이 너무 많아요. = aisingi neomu manayo.
+초 = cho | 촛불을 끄세요! = chotbureul kkeuseyo!
+이스트 = iseuteu | 밀가루에 이스트를 넣으세요. = milgarue iseuteureul reoeuseyo.
+슈크림 = syukeurim | 슈크림은 부드럽고 달아요. = syukeurimeun budeureopgo darayo.
+반죽하다 = banjukada | 반죽을 십 분 동안 치대세요. = banjugeul sip bun dongan chidaeseyo.
+샐러드 = saelleodeu | 샐러드 주세요. = saelleodeu juseyo.
+올리브 = ollibeu | 초록 올리브를 좋아해요. = chorok ollibeureul joahaeyo.
+장아찌 = jangajji | 죽에 장아찌를 곁들여요. = juge jangajjireul gyeotdeuryeoyo.
+얇게 썬 = yalge sseon | 얇게 썬 햄 주세요. = yalge sseon haem juseyo.
+익다 = ikda | 닭고기 다 익었어요? = dakgogi da igeosseoyo?
+오리구이 = origui | 오리구이 반 마리 주세요. = origui ban mari juseyo.
+춘권 = chungwon | 춘권은 바삭해요. = chungwoneun basakaeyo.
+살라미 = sallami | 피자에 살라미를 올려요. = pijae sallamireul ollyeoyo.
+훈제 연어 = hunje yeoneo | 빵에 훈제 연어를 올려요. = ppange hunje yeoneoreul ollyeoyo.
+햄 모둠 = haem modum | 햄 모둠 한 접시 주세요. = haem modum han jeopsi juseyo.
+반찬 코너 = banchan koneo | 반찬 코너에 물어보세요. = banchan koneoe mureoboseyo.
+양념하다 = yangnyeomhada | 고기를 양념에 재웠어요. = gogireul yangnyeome jaewosseoyo.
+하몽 = hamong | 스페인 하몽은 유명해요. = seupein hamongeun yumyeonghaeyo.
+키슈 = kisyu | 시금치 키슈 주세요. = sigeumchi kisyu juseyo.
+후무스 = humuseu | 빵에 후무스를 발라요. = ppange humuseureul ballayo.
+선드라이 토마토 = seondeurai tomato | 선드라이 토마토 파스타예요. = seondeurai tomato paseutayeyo.
+커피 = keopi | 커피 한 잔 주세요. = keopi han jan juseyo.
+녹차 = nokcha | 매일 녹차를 마셔요. = maeil rokchareul masyeoyo.
+홍차 = hongcha | 홍차에 우유를 넣어요. = hongchae uyureul reoeoyo.
+밀크티 = milkeuti | 손녀는 밀크티를 좋아해요. = sonnyeoneun milkeutireul joahaeyo.
+핫초코 = hatchoko | 남자아이한테 핫초코 하나요. = namjaaihante hatchoko hanayo.
+레모네이드 = remoneideu | 레모네이드 한 잔 주세요. = remoneideu han jan juseyo.
+라테 = rate | 라테 큰 사이즈로 주세요. = rate keun saijeuro juseyo.
+카푸치노 = kapuchino | 카푸치노 하나 주세요. = kapuchino hana juseyo.
+에스프레소 = eseupeureso | 에스프레소는 저한테 너무 진해요. = eseupeuresoneun jeohante neomu jinhaeyo.
+아이스 커피 = aiseu keopi | 여름에는 아이스 커피를 마셔요. = yeoreumeneun aiseu keopireul masyeoyo.
+디카페인 = dikapein | 디카페인으로 주세요. 오늘 밤에 자야 해서요. = dikapeineuro juseyo. oneul bame jaya haeseoyo.
+포장 = pojang | 커피 포장해 주세요. = keopi pojanghae juseyo.
+리필 = ripil | 리필 돼요? = ripil dwaeyo?
+빨대 = ppaldae | 빨대 주시겠어요? = ppaldae jusigesseoyo?
+스무디 = seumudi | 바나나 스무디 주세요. = banana seumudi juseyo.
+무설탕 = museoltang | 이거 무설탕이에요? = igeo museoltangieyo?
+주문하다 = jumunhada | 지금 주문해도 돼요? = jigeum jumunhaedo dwaeyo?
+카운터 = kaunteo | 카운터에서 주문하세요. = kaunteoeseo jumunhaseyo.
+종업원 = jongeobwon | 여기요! = yeogiyo!
+샌드위치 = saendeuwichi | 닭고기 샌드위치 주세요. = dakgogi saendeuwichi juseyo.
+비스킷 = biseukit | 홍차와 비스킷이에요. = hongchawa biseukisieyo.
+베이글 = beigeul | 치즈 베이글이에요. = chijeu beigeurieyo.
+와이파이 = waipai | 와이파이 있어요? = waipai isseoyo?
+비밀번호 = bimilbeonho | 와이파이 비밀번호가 뭐예요? = waipai bimilbeonhoga mwoyeyo?
+두 명 자리 = du myeong jari | 두 명 자리 주세요. = du myeong jari juseyo.
+밖 = bak | 밖에 앉아도 돼요? = bakke anjado dwaeyo?
+줄 = jul | 줄을 서세요. = jureul seoseyo.
+셀프서비스 = selpeuseobiseu | 여기는 셀프서비스예요. = yeogineun selpeuseobiseuyeyo.
+스콘 = seukon | 잼과 크림을 곁들인 스콘이에요. = jaemgwa keurimeul gyeotdeurin seukonieyo.
+받침 접시 = batchim jeopsi | 컵을 받침 접시에 놓으세요. = keobeul batchim jeopsie noeuseyo.
+티스푼 = tiseupun | 설탕 한 티스푼이요. = seoltang han tiseupuniyo.
+설탕 그릇 = seoltang geureut | 설탕 그릇 좀 건네주세요. = seoltang geureut jom geonnejuseyo.
+사탕 = satang | 사탕을 너무 많이 먹으면 이에 나빠요. = satangeul reomu mani meogeumyeon ie nappayo.
+초콜릿 = chokollit | 다크 초콜릿을 아주 좋아해요. = dakeu chokolliseul aju joahaeyo.
+막대사탕 = makdaesatang | 손자 줄 막대사탕 하나요. = sonja jul makdaesatang hanayo.
+껌 = kkeom | 수업 시간에는 껌을 씹으면 안 돼요. = sueop siganeneun kkeomeul ssibeumyeon an dwaeyo.
+아이스바 = aiseuba | 더운 날에는 아이스바예요. = deoun nareneun aiseubayeyo.
+마시멜로 = masimello | 불에 마시멜로를 구워요. = bure masimelloreul guwoyo.
+토피 = topi | 이 토피는 끈적거려요. = i topineun kkeunjeokgeoryeoyo.
+캐러멜 = kaereomel | 캐러멜은 아주 달아요. = kaereomereun aju darayo.
+젤리빈 = jellibin | 젤리빈은 색깔이 다양해요. = jellibineun saekkkari dayanghaeyo.
+솜사탕 = somsatang | 아이들은 솜사탕을 좋아해요. = aideureun somsatangeul joahaeyo.
+목캔디 = mokkaendi | 목캔디는 목 아플 때 좋아요. = mokkaendineun mok apeul ttae joayo.
+퍼지 = peoji | 퍼지는 아주 진해요. = peojineun aju jinhaeyo.
+감초 사탕 = gamcho satang | 감초 사탕은 맛이 이상해요. = gamcho satangeun masi isanghaeyo.
+초코바 = chokoba | 초코바를 샀어요. = chokobareul sasseoyo.
+단것을 좋아하다 = dangeoseul joahada | 저는 단것을 좋아해요. = jeoneun dangeoseul joahaeyo.
+박하사탕 = bakasatang | 저녁 먹고 박하사탕 하나. = jeonyeong meokgo bakasatang hana.
+맥주 = maekju | 시원한 맥주 주세요. = siwonhan maekju juseyo.
+와인 = wain | 와인 한 잔 하실래요? = wain han jan hasillaeyo?
+건배 = geonbae | 건배! = geonbae!
+얼음 = eoreum | 얼음 넣어 주세요. = eoreum neoeo juseyo.
+레드 와인 = redeu wain | 레드 와인은 소고기랑 잘 어울려요. = redeu waineun sogogirang jal eoullyeoyo.
+화이트 와인 = hwaiteu wain | 생선에는 화이트 와인이에요. = saengseoneneun hwaiteu wainieyo.
+음료수 = eumnyosu | 음료수로 할게요. = eumnyosuro halgeyo.
+칵테일 = kakteil | 어떤 칵테일을 추천하세요? = eotteon kakteireul chucheonhaseyo?
+위스키 = wiseuki | 위스키는 저한테 너무 독해요. = wiseukineun jeohante neomu dokaeyo.
+샴페인 = syampein | 결혼식에는 샴페인이죠! = gyeolhonsigeneun syampeinijyo!
+술 = sul | 중국 백주는 아주 독해요. = jungguk baekjuneun aju dokaeyo.
+바텐더 = batendeo | 바텐더에게 물어보세요. = batendeoege mureoboseyo.
+술집 = suljip | 술집에서 만나요. = suljibeseo mannayo.
+무알코올 = mualkool | 무알코올 맥주 있어요? = mualkool maekju isseoyo?
+취하다 = chwihada | 그는 좀 취했어요. = geuneun jom chwihaesseoyo.
+온더록스 = ondeorokseu | 위스키 온더록스로요. = wiseuki ondeorokseuroyo.
+메뉴 = menyu | 메뉴 좀 볼 수 있을까요? = menyu jom bol su isseulkkayo?
+계산서 = gyesanseo | 계산서 주세요. = gyesanseo juseyo.
+팁 = tip | 팁을 줘야 해요? = tibeul jwoya haeyo?
+요리사 = yorisa | 요리사님께 감사드려요! = yorisanimkke gamsadeuryeoyo!
+디저트 = dijeoteu | 디저트는 뭐예요? = dijeoteuneun mwoyeyo?
+여종업원 = yeojongeobwon | 여종업원이 아주 친절해요. = yeojongeobwoni aju chinjeolhaeyo.
+예약 = yeyak | 두 명 예약했어요. = du myeong yeyakaesseoyo.
+전채 = jeonchae | 전채로 수프를 먹을게요. = jeonchaero supeureul meogeulgeyo.
+메인 요리 = mein yori | 메인 요리는 뭐예요? = mein yorineun mwoyeyo?
+추천하다 = chucheonhada | 뭘 추천하세요? = mwol chucheonhaseyo?
+세트 메뉴 = seteu menyu | 세트 메뉴가 더 싸요. = seteu menyuga deo ssayo.
+오늘의 요리 = oneurui yori | 오늘의 요리는 뭐예요? = oneurui yorineun mwoyeyo?
+포장 봉투 = pojang bongtu | 포장 봉투 주시겠어요? = pojang bongtu jusigesseoyo?
+웰던 = weldeon | 스테이크는 웰던으로요. = seuteikeuneun weldeoneuroyo.
+미디엄 레어 = midieom neeo | 미디엄 레어로 해 주세요. = midieom neeoro hae juseyo.
+봉사료 = bongsaryo | 봉사료가 포함돼 있어요? = bongsaryoga pohamdwae isseoyo?
+햄버거 = haembeogeo | 햄버거 하나 주세요. = haembeogeo hana juseyo.
+감자튀김 = gamjatwigim | 감자튀김 큰 거 주세요. = gamjatwigim keun geo juseyo.
+피자 = pija | 피자 시켜요. = pija sikyeoyo.
+핫도그 = hatdogeu | 겨자 뿌린 핫도그예요. = gyeoja ppurin hatdogeuyeyo.
+콜라 = kolla | 콜라 작은 거 주세요. = kolla jageun geo juseyo.
+치킨 = chikin | 손자는 치킨을 좋아해요. = sonjaneun chikineul joahaeyo.
+밀크셰이크 = milkeusyeikeu | 초콜릿 밀크셰이크 주세요. = chokollin milkeusyeikeu juseyo.
+너깃 = neogit | 치킨 너깃 여섯 개 주세요. = chikin neogit yeoseot gae juseyo.
+먹고 가요 = meokgo gayo | 먹고 갈게요. = meokgo galgeyo.
+세트 = seteu | 일 번 세트로 할게요. = il beon seteuro halgeyo.
+배달 = baedal | 배달 돼요? = baedal dwaeyo?
+드라이브스루 = deuraibeuseuru | 드라이브스루로 가요. = deuraibeuseururo gayo.
+라면 = ramyeon | 라면은 건강에 안 좋아요. = ramyeoneun geongange an joayo.
+타코 = tako | 타코 먹어 본 적 있어요? = tako meogeo bon jeok isseoyo?
+케밥 = kebap | 양고기 케밥 주세요. = yanggogi kebap juseyo.
+부리토 = burito | 부리토가 커요. = buritoga keoyo.
+아침 = achim | 아침 준비됐어요. = achim junbidwaesseoyo.
+죽 = juk | 죽은 먹기 편해요. = jugeun meokgi pyeonhaeyo.
+삶은 달걀 = salmeun dalgyal | 매일 아침 삶은 달걀을 하나 먹어요. = maeil achim salmeun dalgyareul hana meogeoyo.
+달걀 프라이 = dalgyal peurai | 달걀 프라이를 좋아해요. = dalgyal peuraireul joahaeyo.
+오렌지 주스 = orenji juseu | 오렌지 주스 한 잔 주세요. = orenji juseu han jan juseyo.
+팬케이크 = paenkeikeu | 꿀 뿌린 팬케이크예요. = kkul ppurin paenkeikeuyeyo.
+오믈렛 = omeullet | 치즈 오믈렛 주세요. = chijeu omeullet juseyo.
+스크램블드에그 = seukeuraembeuldeuegeu | 토스트에 스크램블드에그를 올려요. = toseuteue seukeuraembeuldeuegeureul ollyeoyo.
+만두 = mandu | 고기만두 두 개 주세요. = gogimandu du gae juseyo.
+유탸오 = yutyao | 두유와 유탸오예요. = duyuwa yutyaoyeyo.
+쌀국수 = ssalguksu | 아침으로 쌀국수를 먹어요. = achimeuro ssalguksureul meogeoyo.
+뷔페 = bwipe | 호텔에 아침 뷔페가 있어요. = hotere achim bwipega isseoyo.
+브런치 = beureonchi | 일요일에 브런치 먹어요. = iryoire beureonchi meogeoyo.
+베이크드 빈스 = beikeudeu binseu | 토스트에 베이크드 빈스를 올려요. = toseuteue beikeudeu binseureul ollyeoyo.
+해시브라운 = haesibeuraun | 해시브라운은 바삭해요. = haesibeurauneun basakaeyo.
+영국식 아침 식사 = yeongguksik achim siksa | 영국식 아침 식사는 양이 많아요. = yeongguksik achim siksaneun yangi manayo.
+점심 = jeomsim | 점심은 열두 시예요. = jeomsimeun yeoldu siyeyo.
+저녁 = jeonyeok | 저녁 다 됐어요! = jeonyeok da dwaesseoyo!
+만두 = mandu | 같이 만두를 빚어요. = gachi mandureul bijeoyo.
+볶음밥 = bokkeumbap | 달걀 볶음밥 주세요. = dalgyal bokkeumbap juseyo.
+국수 = guksu | 소고기 국수 한 그릇 주세요. = sogogi guksu han geureut juseyo.
+훠궈 = hwogwo | 오늘 저녁은 훠궈 먹어요. = oneul jeonyeogeun hwogwo meogeoyo.
+찌개 = jjigae | 소고기 찌개는 따뜻하고 든든해요. = sogogi jjigaeneun ttatteutago deundeunhaeyo.
+볶음 = bokkeum | 채소 볶음이에요. = chaeso bokkeumieyo.
+스파게티 = seupageti | 토마토소스 스파게티예요. = tomatososeu seupagetiyeyo.
+바비큐 = babikyu | 여름에는 바비큐를 해요. = yeoreumeneun babikyureul haeyo.
+통닭구이 = tongdakgui | 일요일 저녁은 통닭구이예요. = iryoil jeonyeogeun tongdakguiyeyo.
+반찬 = banchan | 밥이 곁들이는 음식이에요. = babi gyeotdeurineun eumsigieyo.
+남은 음식 = nameun eumsik | 남은 음식은 내일 먹을 거예요. = nameun eumsigeun naeil meogeul geoyeyo.
+집밥 = jipbap | 집밥이 제일 좋아요. = jipbabi jeil joayo.
+한 그릇 더 = han geureut deo | 한 그릇 더 먹어도 돼요? = han geureut deo meogeodo dwaeyo?
+상을 차리다 = sangeul charida | 상 좀 차려 주세요. = sang jom charyeo juseyo.

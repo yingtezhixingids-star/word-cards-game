@@ -1,0 +1,64 @@
+@school
+My grandson goes to {school} by bus.|我孙子坐公交车上学。
+His {teacher} is very kind.|他的老师很和蔼。
+There are forty students in his {class}.|他们班有四十个学生。
+Today he has an English {lesson} at nine.|今天九点他有一节英语课。
+In the evening, I help him with his {homework}.|晚上我辅导他写作业。
+He writes with a {pencil} and uses an {eraser}.|他用铅笔写，用橡皮擦。
+Tomorrow he has an {exam}, so he goes to bed early.|明天他要考试，所以早早睡了。
+@math
+My granddaughter is learning math.|我孙女在学数学。
+"Two {plus} two is four," she says.|“二加二等于四。”她说。
+"Ten {minus} three is seven."|“十减三等于七。”
+"{Half} of ten is five."|“十的一半是五。”
+Now she can {multiply} and divide.|现在她会做乘法和除法了。
+She checks her {answer} with a {calculator}.|她用计算器核对答案。
+"What's the {total}?" I ask at the supermarket. She knows!|在超市我问：“一共多少？”她马上就知道了！
+@physics
+My grandson asks me many questions about science.|我孙子问了我很多科学问题。
+"Why does an apple fall? Because of {gravity}."|“苹果为什么会掉下来？因为重力。”
+"Why does the fridge hold a note? Because of a {magnet}."|“冰箱上为什么能贴住纸条？因为有磁铁。”
+"Why is the stove {hot}? Because of {heat}."|“炉子为什么烫？因为有热量。”
+"Why do we hear an {echo} in the mountains?"|“为什么在山里能听到回声？”
+"Because {sound} travels in waves."|“因为声音是以波的形式传播的。”
+"Rub your hands. {Friction} makes them warm!"|“搓搓手，摩擦会让手变暖！”
+@chemistry
+Today the children are in the {lab}.|今天孩子们在实验室。
+"Put on your {safety goggles}," says the teacher.|“戴上护目镜。”老师说。
+They hold a {test tube} carefully.|他们小心地拿着试管。
+They do an {experiment} with ice.|他们用冰做了一个实验。
+The ice begins to {melt}.|冰开始融化了。
+Water is a {liquid}, and ice is a {solid}.|水是液体，冰是固体。
+Then they stir the {mixture} and watch.|然后他们搅拌混合物，仔细观察。
+@biology
+In biology class, we look at pond water.|生物课上，我们观察池塘水。
+We look through a {microscope}.|我们用显微镜看。
+We can see tiny {cell=cells}.|我们能看到小小的细胞。
+Some living things are {bacteria}.|有些生物是细菌。
+The fish are {alive}, but some plants are dead.|鱼是活的，但有些植物死了。
+The pond is the {habitat} of many animals.|池塘是许多动物的栖息地。
+They are all part of the {food chain}.|它们都是食物链的一部分。
+@periodic
+The teacher talks about {metal=metals}.|老师讲到了金属。
+My wedding ring is {gold}.|我的结婚戒指是金的。
+Grandma's bracelet is {silver}.|奶奶的手镯是银的。
+Old pipes are made of {copper}.|旧水管是铜做的。
+Cans are made of {aluminum}.|易拉罐是铝做的。
+Each {element} has a {symbol}, like Au for gold.|每种元素都有一个符号，比如金是Au。
+Balloons float because of {helium}.|气球能飘起来是因为氦气。
+@history
+Grandpa loves Chinese {history}.|爷爷热爱中国历史。
+He tells me about each {dynasty}.|他给我讲每个朝代的故事。
+The {emperor} lived in the Forbidden City.|皇帝住在紫禁城里。
+Paper is a great Chinese {invention}.|纸是中国的一项伟大发明。
+He walked on the {Great Wall} when he was young.|他年轻时登过长城。
+The {Silk Road} linked China and Europe.|丝绸之路连接了中国和欧洲。
+"In the {past}, life was very hard," he says.|“过去，日子很苦。”他说。
+@college
+My granddaughter is at {university} now.|我孙女现在上大学了。
+She lives in the {dormitory} on {campus}.|她住在校园里的宿舍。
+Her {major} is medicine.|她的专业是医学。
+She won a {scholarship}, so the {tuition} is not a problem.|她拿了奖学金，所以学费不成问题。
+Every morning she goes to a {lecture}.|她每天早上去听课。
+She will {graduate} in two years.|她两年后毕业。
+We are very proud of her {degree}.|我们为她的学位感到骄傲。

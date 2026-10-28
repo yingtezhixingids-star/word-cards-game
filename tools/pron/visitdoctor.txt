@@ -1,0 +1,41 @@
+# 单词：词 | 重读音节（ˈ主重音 ˌ次重音，· 分音节） | 美式音标（KK）
+=doctor | ˈdoc·tor | /ˈdɑktɚ/
+=nurse | ˈnurse | /nɝs/
+=medicine | ˈmed·i·cine | /ˈmɛdəsn/
+=appointment | ap·ˈpoint·ment | /əˈpɔɪntmənt/
+=waiting room | ˈwait·ing ˌroom | /ˈwetɪŋ ˌrum/
+=temperature | ˈtem·per·a·ture | /ˈtɛmprətʃɚ/
+=tablet | ˈtab·let | /ˈtæblɪt/
+=symptom | ˈsymp·tom | /ˈsɪmptəm/
+=blood pressure | ˈblood ˌpres·sure | /ˈblʌd ˌprɛʃɚ/
+=check-up | ˈcheck-ˌup | /ˈtʃɛkˌʌp/
+=prescription | pre·ˈscrip·tion | /prɪˈskrɪpʃən/
+=injection | in·ˈjec·tion | /ɪnˈdʒɛkʃən/
+=vaccine | ˌvac·ˈcine | /ˌvækˈsin/
+=stethoscope | ˈsteth·o·ˌscope | /ˈstɛθəˌskop/
+=diagnosis | ˌdi·ag·ˈno·sis | /ˌdaɪəgˈnosɪs/
+=side effect | ˈside ef·ˌfect | /ˈsaɪd ɪˌfɛkt/
+# 句子：原句 || 标注（[重读音节] (弱读) ‿连读 |停顿 ↘降调 ↗升调，箭头放在句子的主重音前）
+I need to see a doctor. || I [need] (to) [see]‿(a) ↘[doc]tor.
+The nurse will help you. || (The) [nurse] (will) ↘[help] (you).
+Take this medicine after meals. || [Take] (this) [med]icine‿(after) ↘[meals].
+I have an appointment at ten. || I (have)‿(an)‿ap[point]ment‿(at) ↘[ten].
+Please wait in the waiting room. || [Please] [wait]‿(in) (the) ↘[wait]ing room.
+Let me take your temperature. || (Let) (me) [take] (your) ↘[tem]perature.
+Take one tablet twice a day. || [Take] [one] ↗[tab]let | [twice]‿(a) ↘[day].
+What are your symptoms? || [What] (are) (your) ↘[symp]toms?
+Let me check your blood pressure. || (Let) (me) [check] (your) ↘[blood] pressure.
+I have a check-up every year. || I (have)‿(a) [check]-up‿[ev]ery ↘[year].
+Here is your prescription. || [Here]‿(is) (your) pre↘[scrip]tion.
+You need an injection. || (You) [need]‿(an)‿in↘[jec]tion.
+Have you had the flu vaccine? || (Have) (you) [had] (the) ↗[flu] vaccine?
+The doctor uses a stethoscope. || (The) [doc]tor [us]es‿(a) ↘[steth]oscope.
+What is the diagnosis? || [What]‿(is) (the) diag↘[no]sis?
+Are there any side effects? || (Are) (there) [an]y ↗[side]‿effects?
+Grandma Li made an appointment to see the doctor. || [Grand]ma ↗[Li] | [made]‿(an)‿ap[point]ment (to) [see] (the) ↘[doc]tor.
+She sat in the waiting room for twenty minutes. || (She) [sat]‿(in) (the) ↗[wait]ing room | (for) [twen]ty ↘[min]utes.
+The nurse took her temperature first. || (The) [nurse] [took] (her) [tem]perature ↘[first].
+"What are your symptoms?" the doctor asked. || "[What] (are) (your) ↘[symp]toms?" | (the) [doc]tor (asked).
+The doctor wrote a prescription for her. || (The) [doc]tor [wrote]‿(a) pre↘[scrip]tion (for) (her).
+"Take one tablet twice a day." || "[Take] [one] ↗[tab]let | [twice]‿(a) ↘[day]."
+"Are there any side effects?" she asked. || "(Are) (there) [an]y ↗[side]‿effects?" | (she) (asked).

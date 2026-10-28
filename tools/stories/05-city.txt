@@ -1,0 +1,80 @@
+@town1
+I want to go to the library, but I am lost.|我想去图书馆，可是迷路了。
+A kind man says, "Walk to the {corner} first."|一位好心人说：“先走到拐角。”
+"Wait for the green {traffic light}."|“等绿灯。”
+"Cross at the {crosswalk}."|“从人行横道过马路。”
+"Then walk across the {bridge}."|“然后走过那座桥。”
+"The {library} is next to the park."|“图书馆就在公园旁边。”
+"It's only two {block=blocks} away."|“只有两个街区远。”
+@town2
+My friend from America is visiting our town.|我的美国朋友来我们镇上玩。
+First, I show him the old {temple}.|我先带他去看那座古庙。
+Then we go to the busy {market}.|然后去热闹的市场。
+We walk along the {pedestrian street}.|我们沿着步行街逛。
+He needs a map, so we go to {tourist information}.|他需要一张地图，我们就去了游客中心。
+In the evening, we see a film at the {cinema}.|晚上，我们去电影院看了场电影。
+Then I take him back to his {hotel}.|然后我送他回酒店。
+@buildings
+Our guide shows us the old town.|导游带我们参观老城。
+This {palace} is more than 300 years old.|这座宫殿有三百多年历史了。
+It is made of {stone} and wood.|它是用石头和木头建成的。
+There is a tall {pagoda} by the lake.|湖边有一座高高的宝塔。
+Across the river, there are {skyscraper=skyscrapers} and modern buildings.|河对岸是摩天大楼和现代建筑。
+"Meet me at the {entrance} at three," says the guide.|“三点在入口集合。”导游说。
+A famous {architect} designed the new museum.|一位著名的建筑师设计了新博物馆。
+@bankpost
+This morning I went to the bank and the post office.|今天上午我去了银行和邮局。
+I used the {ATM} to get some money.|我在取款机上取了点钱。
+I had to enter my {PIN} first.|我得先输入密码。
+Then I asked about the {exchange rate} for dollars.|然后我问了美元的汇率。
+At the {post office}, I bought a {stamp}.|在邮局，我买了一张邮票。
+I sent a {parcel} to my son in Canada.|我给在加拿大的儿子寄了一个包裹。
+I wrote his {postcode} very clearly.|我把他的邮编写得清清楚楚。
+@shopping
+Grandma wants to buy a coat for winter.|奶奶想买一件过冬的大衣。
+"How much is this one?" she asks. "The {price} is 800 yuan."|“这件多少钱？”她问。“价格是八百元。”
+"That's too {expensive}!" she says.|“太贵了！”她说。
+"Is there a {discount}?"|“能打折吗？”
+"Yes, 30% off, so it's a {bargain}."|“可以，打七折，很划算。”
+She pays the {cashier} and gets her change.|她付钱给收银员，拿回了找零。
+"Can I have the {receipt}, please?"|“请给我小票好吗？”
+@mall
+Today we spend the afternoon at the {shopping mall}.|今天我们在购物中心逛了一下午。
+We take the {escalator} to the second floor.|我们坐自动扶梯上二楼。
+My grandson runs into the {toy store}.|我孙子跑进了玩具店。
+I buy a novel at the {bookstore}.|我在书店买了一本小说。
+We have lunch at the {food court}.|我们在美食广场吃午饭。
+Grandpa lost his hat, so we went to {lost and found}.|爷爷丢了帽子，我们就去了失物招领处。
+"Where is the {exit}?" Grandma asks at the end.|最后奶奶问：“出口在哪儿？”
+@supermarket
+Grandma goes to the supermarket every morning.|奶奶每天早上都去超市。
+She takes a {basket} at the door.|她在门口拿了一个购物篮。
+The eggs are on {special offer} today.|今天鸡蛋特价。
+She always checks the {best before} date.|她总是看清保质期。
+She buys some {frozen food} for the weekend.|她买了些周末吃的冷冻食品。
+At the {checkout}, she shows her {loyalty card}.|在收银台，她出示了会员卡。
+She brings her own bag, so she doesn't need a {plastic bag}.|她自带了袋子，不需要塑料袋。
+@pharmacy
+Grandpa has a cold, so he goes to the {pharmacy}.|爷爷感冒了，就去了药店。
+"Do you have any {cold medicine}?" he asks.|“有感冒药吗？”他问。
+The {pharmacist} gives him some pills.|药剂师给了他一些药片。
+"Take this {cough syrup} before bed."|“睡前喝这个止咳糖浆。”
+He also buys a new {thermometer}.|他还买了一支新体温计。
+"What is the {dose}?" he asks.|“剂量是多少？”他问。
+"Two pills a day. Don't forget to wear a {mask}."|“一天两片。别忘了戴口罩。”
+@emergency
+Yesterday there was an {accident} on our street.|昨天我们街上出了一起事故。
+A car hit a motorbike, and smoke came out. "{Fire}!" someone shouted.|一辆车撞上了摩托车，冒出了烟。“着火了！”有人喊道。
+A {police car} came very quickly.|一辆警车很快就来了。
+Then a {fire engine} arrived.|接着消防车也到了。
+The {firefighter=firefighters} put out the fire.|消防员把火扑灭了。
+A {police officer} asked me some questions.|一位警官问了我几个问题。
+I was a {witness}, so I told him what I saw.|我是目击者，就把看到的告诉了他。
+@energy
+Our {electricity bill} was very high last month.|上个月我们的电费单很高。
+Now we try to {save energy} every day.|现在我们每天都尽量节能。
+We turn off the lights when we leave.|离开时我们都关灯。
+We put {solar panel=solar panels} on the roof.|我们在屋顶装了太阳能板。
+Outside town there are big {wind turbine=wind turbines}.|城外有很多大风力发电机。
+Wind and sun are {renewable} energy.|风能和太阳能是可再生能源。
+I {charge} my phone at night, when power is cheaper.|我晚上给手机充电，那时电便宜。

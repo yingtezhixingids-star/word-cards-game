@@ -1,0 +1,152 @@
+@amfootball
+My grandson took me to an American football game.|孙子带我去看了一场美式橄榄球比赛。
+The {stadium} was full.|体育场座无虚席。
+He is a big {fan} of the home team.|他是主队的铁杆球迷。
+The {quarterback} threw the ball far.|四分卫把球扔得很远。
+A {player} caught it and ran: {touchdown}!|一名球员接住球往前跑：达阵！
+At {half-time}, there was a show.|中场休息时有表演。
+In the end, we {win=won} by three points!|最后我们赢了三分！
+@rugby
+My grandson plays rugby at school.|我孙子在学校打橄榄球。
+Today is a big {match}.|今天有一场重要比赛。
+He wears the blue {jersey}.|他穿着蓝色球衣。
+He also wears a {mouthguard}.|他还戴着护齿。
+Their {opponent} is very strong, and he is a little worried.|他们的对手很强，他有点担心。
+The referee blows the {whistle}, and the game starts.|裁判吹响哨子，比赛开始。
+He scores a {try}! But his shoes are very {muddy}.|他触地得分了！不过他的鞋满是泥。
+@soccer
+We watch the {World Cup} together as a family.|我们全家一起看世界杯。
+In the first half, there is a {foul}.|上半场，有人犯规。
+The {referee} gives a {yellow card}.|裁判出示了一张黄牌。
+Then it's a {penalty}!|接着判了点球！
+The {striker} shoots...|前锋射门……
+...but the {goalkeeper} catches the ball!|……但守门员把球接住了！
+It ends in a {draw}, so the game goes to {extra time}.|比赛打平，进入加时赛。
+@hockey
+In winter, we go to the ice {rink}.|冬天，我们去溜冰场。
+My granddaughter plays {ice hockey}.|我孙女打冰球。
+She puts on her {pads} and helmet.|她穿上护具，戴上头盔。
+The game starts with a {face-off}.|比赛以争球开始。
+She hits the {puck} with her {stick}.|她用球棍击打冰球饼。
+The {goalie} can't stop it.|守门员没挡住。
+It's in the {net}!|球进网了！
+@cricket
+In England, my son took me to a cricket game.|在英国，儿子带我去看了一场板球比赛。
+The {bowler} ran fast and threw the ball.|投球手快速助跑，把球投出。
+The {batsman} hit it with his {bat}.|击球手用球拍击中了球。
+The ball went over the {boundary}: a {six}!|球飞出了边界：六分！
+Then the ball hit the {wicket}.|后来，球击中了三柱门。
+The {umpire} raised his finger: "{Out}!"|裁判举起手指：“出局！”
+In the afternoon, there was a {tea break}.|下午还有茶歇。
+@basketball
+My grandson plays {basketball} every Saturday.|我孙子每周六打篮球。
+We meet at the basketball {court} in the park.|我们在公园的篮球场碰头。
+He can {dribble} very well.|他运球很棒。
+He jumps and does a {slam dunk}!|他跳起来一个扣篮！
+Then he scores a {three-pointer}.|接着他投进一个三分球。
+His team is tired, so the coach calls a {timeout}.|他的队伍累了，教练叫了暂停。
+At the end, he makes a {free throw} and they win.|最后，他罚球命中，他们赢了。
+@baseball
+In America, my son took me to a {baseball} game.|在美国，儿子带我看了一场棒球比赛。
+I wore a {baseball cap}.|我戴了一顶棒球帽。
+The {pitcher} threw the ball very fast.|投手把球投得很快。
+"{Strike} one!" shouted the umpire.|“一好球！”裁判喊道。
+Then the {batter} hit the ball far.|接着击球员把球打得很远。
+It was a {home run}!|是本垒打！
+It was the ninth {inning}, and our team won.|那是第九局，我们队赢了。
+@tennis
+Every weekend, I play {tennis} with my old friends.|每个周末，我和老朋友打网球。
+We usually play {doubles}.|我们一般打双打。
+I bought a new {racket}.|我买了一副新球拍。
+My friend Wang has a strong {forehand}.|老王的正手很强。
+But I need to practice my {backhand}.|但我得练练反手。
+Today the score was {deuce} for a long time.|今天比分一直是平分。
+Then I served an {ace} and won!|然后我发球直接得分，赢了！
+@golf
+My brother loves to play {golf}.|我哥哥很爱打高尔夫。
+His {caddie} carries his bag.|他的球童帮他背球包。
+He puts the ball on the {tee}.|他把球放在球座上。
+Nice {swing}! The ball flies down the {fairway}.|漂亮的挥杆！球沿着球道飞去。
+Oh no, now it's in the {bunker}.|哎呀，球掉进沙坑了。
+He hits it out onto the {green}.|他把球打上了果岭。
+A short {putt}, and the ball is in the {hole}!|轻轻一推，球进洞了！
+@athletics
+At sixty, my neighbor decided to run a {marathon}.|六十岁时，我的邻居决定跑马拉松。
+Every morning, he runs ten {lap=laps} around the {track}.|每天早上，他绕跑道跑十圈。
+His wife holds a {stopwatch}.|他妻子拿着秒表计时。
+On the day of the {race}, we all came to watch.|比赛那天，我们都去看了。
+After five hours, he crossed the {finish line}.|五个小时后，他冲过了终点线。
+He didn't break a {record}...|他没有破纪录……
+...but to us, he was a {champion}!|……但对我们来说，他就是冠军！
+@combat
+My grandson learns {kung fu} after school.|我孙子放学后学功夫。
+At the start of class, they {bow} to the teacher.|上课开始时，他们向老师鞠躬。
+The teacher says, "First, learn to {defend} yourself."|老师说：“先学会保护自己。”
+Then they practice a {punch}.|然后他们练习出拳。
+His sister does {taekwondo}.|他姐姐练跆拳道。
+She already has a {black belt}!|她已经是黑带了！
+Grandpa just likes to watch {boxing} on TV.|爷爷只喜欢在电视上看拳击。
+@swimming
+I {swim} three times a week.|我每周游三次泳。
+The {swimming pool} near my home is warm.|我家附近的游泳池水很暖和。
+First, I put my things in a {locker}.|我先把东西放进储物柜。
+I wear a {swimming cap} and {goggles}.|我戴上泳帽和泳镜。
+I stay in the {shallow} end.|我待在浅水区。
+I swim {breaststroke} slowly.|我慢慢地游蛙泳。
+The {lifeguard} always watches us.|救生员一直看着我们。
+@watersports
+Last summer, we went to the seaside.|去年夏天，我们去了海边。
+My grandson learned to {surf}.|我孙子学了冲浪。
+He wore a {wetsuit} and carried his {surfboard}.|他穿着潜水服，抱着冲浪板。
+My daughter went by {kayak} along the coast.|我女儿沿海岸划皮划艇。
+She held the {paddle} tightly.|她紧紧握着桨。
+I just wanted to {snorkel} and see the fish.|我只想浮潜看鱼。
+In June, we watched the {dragon boat} races.|六月，我们看了龙舟赛。
+@horse
+My granddaughter is learning to {ride a horse}.|我孙女在学骑马。
+Her teacher takes a {pony} out of the {stable}.|老师从马厩里牵出一匹小马。
+She puts on her {riding boots}.|她穿上马靴。
+She puts her foot in the {stirrup}.|她把脚踩进马镫。
+"Hold the {reins} tightly," says the teacher.|“抓紧缰绳。”老师说。
+First, the pony {trot=trots} slowly.|小马先慢慢小跑。
+After riding, she brushes its {mane}.|骑完后，她给小马梳马鬃。
+@fishing
+Every Sunday, Grandpa goes {fishing}.|每个星期天，爷爷都去钓鱼。
+He sits on the {riverbank} with his old friend.|他和老朋友坐在河岸上。
+He puts {bait} on the {fish hook}.|他把鱼饵挂到鱼钩上。
+Then he watches the {bobber} quietly.|然后他静静地看着浮漂。
+Suddenly it goes under! He turns the {reel} slowly.|突然它沉下去了！他慢慢转动绕线轮。
+He puts the big fish in the {cooler box}.|他把大鱼放进保温箱。
+He will {release} the small ones.|小鱼他会放生。
+@winter
+This winter, we went to a {ski resort} in the north.|今年冬天，我们去了北方的一个滑雪场。
+We took the {ski lift} up the mountain.|我们坐滑雪缆车上山。
+My grandson can {snowboard}.|我孙子会单板滑雪。
+I wore {ski goggles}, but the {slope} was too steep for me.|我戴了滑雪镜，可这条雪道对我来说太陡了。
+So I went {ice skating} instead.|所以我改去滑冰了。
+The little ones rode a {sled}.|小家伙们坐雪橇。
+Then we all built a {snowman}.|然后我们一起堆了雪人。
+@motorsports
+My son loves {Formula One}.|我儿子很喜欢一级方程式赛车。
+This year, we went to the {grand prix} in Shanghai.|今年，我们去上海看了大奖赛。
+There were thousands of {spectator=spectators}.|观众成千上万。
+His favorite {racing driver} started in {pole position}.|他最喜欢的赛车手从杆位出发。
+In the middle of the race, he made a quick {pit stop}.|比赛中途，他快速进站。
+Then he {overtake=overtook} two cars!|然后他超了两辆车！
+He finished second and stood on the {podium}.|他获得第二名，站上了领奖台。
+@gym
+Last month, I got a {membership} at the {gym}.|上个月，我办了健身房会员。
+My {personal trainer} is young but strict.|我的私人教练年轻但很严格。
+"Always {warm up} first," she says.|“一定要先热身。”她说。
+Then I walk on the {treadmill}.|然后我在跑步机上走步。
+I lift a small {dumbbell}.|我举一个小哑铃。
+After half an hour, I {sweat} a lot.|半小时后，我出了很多汗。
+At the end, we {cool down} together.|最后，我们一起放松整理。
+@othersports
+Our community has a sports day every autumn.|我们社区每年秋天办运动会。
+The older people play {gateball}.|老人们打门球。
+The children {jump rope} and play {Frisbee}.|孩子们跳绳、玩飞盘。
+My wife tries the {hula hoop}.|我老伴试着转呼啦圈。
+Grandpa Li plays {billiards} with his friends.|李爷爷和朋友们打台球。
+Some young people try {archery}.|一些年轻人试了射箭。
+In the evening, everyone joins the {square dancing}.|晚上，大家都一起跳广场舞。

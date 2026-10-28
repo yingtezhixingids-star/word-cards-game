@@ -1,0 +1,81 @@
+@time
+I wake up {early} every day.|我每天起得很早。
+I get up at six {o'clock}.|我六点起床。
+In the {morning}, I do tai chi in the park.|早上，我在公园打太极。
+At {noon}, I have lunch with my wife.|中午，我和老伴吃午饭。
+In the {afternoon}, I take a nap for one {hour}.|下午，我午睡一个小时。
+At {half past} seven, we watch the news.|七点半，我们看新闻。
+I never go to bed {late}.|我从不晚睡。
+@calendar
+This {week} is very busy.|这周很忙。
+On {Monday}, I see the doctor.|星期一，我去看医生。
+On {Wednesday}, I go to my calligraphy class.|星期三，我去上书法课。
+On {Friday}, I visit my sister.|星期五，我去看我妹妹。
+{Tomorrow} is Saturday.|明天是星期六。
+At the {weekend}, my grandchildren come to stay.|周末，孙子孙女来住。
+In {spring}, we will all go on a trip together.|春天，我们要一起去旅行。
+@numbers
+I went to the bank to open an account.|我去银行开户。
+The clerk said, "Please write your {phone number}."|职员说：“请写下您的电话号码。”
+"Take a {number} and wait."|“请取号等候。”
+My number was {fifty}.|我的号是五十。
+There were {twelve} people before me.|我前面有十二个人。
+"Please {count} the money," she said.|“请点一下钱。”她说。
+I counted one {thousand} yuan, and it was right.|我数了一千元，没错。
+@measures
+At the market, I buy vegetables every morning.|每天早上，我在市场买菜。
+"Half a {kilo} of tomatoes, please."|“请给我一斤西红柿。”
+The seller puts them on the {scale}.|卖菜的把它们放到秤上。
+The watermelon is very {heavy}.|西瓜很重。
+The bag of noodles is {light}.|那袋面条很轻。
+I also buy a {liter} of milk.|我还买了一升牛奶。
+My home is only one {kilometer} away, so I walk.|我家只有一公里远，所以我走回去。
+@writing
+At the hospital, I have to fill in a form.|在医院，我要填一张表。
+"Please {fill in} this form," says the nurse.|“请填好这张表。”护士说。
+First, I {write} my {name}.|我先写名字。
+My {surname} is Wang.|我姓王。
+Then I write my {date of birth}.|然后写出生日期。
+She says, "Please use a {capital letter} for your name."|她说：“名字请用大写字母。”
+At the bottom, I write my {signature}.|最后在底部签名。
+@describe1
+My granddaughter helps me clean the house.|孙女帮我打扫房子。
+"Grandma, this floor is {dirty}!"|“奶奶，这地板好脏！”
+After we mop it, it is {wet}.|拖完之后，地是湿的。
+An hour later, it is {dry} and {clean}.|一个小时后，地干了，也干净了。
+"Is cleaning {difficult}?" I ask.|“打扫难吗？”我问。
+"No, it's {easy}!" she says.|“不难，很简单！”她说。
+Now the fridge is {empty}, so we go shopping.|现在冰箱空了，我们就去买东西。
+@describe2
+My grandson and I are painting a picture.|我和孙子在画画。
+The sky is {blue}.|天空是蓝色的。
+The grass is {green}.|草是绿色的。
+The sun is {yellow} and {round}.|太阳是黄色的，圆圆的。
+The house has a {red} roof.|房子有一个红屋顶。
+The dog is {brown}.|小狗是棕色的。
+"What an {interesting} picture!" I say.|“多有趣的画啊！”我说。
+@phrasal
+This morning, I was in a hurry.|今天早上，我很匆忙。
+I had to {look for} my glasses everywhere.|我到处找我的眼镜。
+My wife said, "{Calm down}! They are on your head!"|老伴说：“别急！眼镜在你头上！”
+I {put on} my coat.|我穿上外套。
+I had to {pick up} my grandson from school.|我得去学校接孙子。
+"{Hurry up}!" I said to myself.|“快点！”我对自己说。
+We {come back=came back} home together at five.|我们五点一起回到家。
+@expr1
+A new neighbor moved in next door.|隔壁搬来了一位新邻居。
+"{Hello}! I'm Nancy."|“你好！我是南希。”
+"{Nice to meet you}. I'm Mr. Wang."|“很高兴认识你。我是王先生。”
+"{How are you}?"|“你好吗？”
+"{I'm fine}, thanks."|“我很好，谢谢。”
+I gave her some dumplings. "{Thank you}!" she said.|我给了她一些饺子。“谢谢！”她说。
+"{You're welcome}," I said.|“不客气。”我说。
+@expr2
+A foreign tourist asked me for help in the street.|一位外国游客在街上向我求助。
+"Excuse me, {can you help me}?"|“打扰一下，您能帮我吗？”
+"{Of course}!" I said.|“当然！”我说。
+He spoke very fast. "{Pardon}?" I said.|他说得很快。“请再说一遍？”我说。
+"{Please speak slowly}."|“请说慢一点。”
+He showed me a photo. "{What's this}?"|他给我看一张照片。“这是什么？”
+"It's the old temple. {Let's go}! I'll show you."|“这是老庙。走吧！我带你去。”
+At the temple, he smiled. "{Have a nice day}!"|到了庙前，他笑着说：“祝你愉快！”

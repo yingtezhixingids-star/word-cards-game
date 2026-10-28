@@ -1,0 +1,111 @@
+@space1
+On clear nights, my grandson and I look up at the {sky}.|晴朗的夜晚，我和孙子一起仰望天空。
+He has a small {telescope}.|他有一架小望远镜。
+First, we look at the {moon}.|我们先看月亮。
+Then he finds a red {planet}: it's {Mars}!|然后他找到一颗红色的行星：是火星！
+Far away, we can see the {Milky Way}.|远处，我们能看到银河。
+"I want to be an {astronaut}," he says.|“我想当宇航员。”他说。
+"I want to fly a {rocket} into {space}!"|“我要坐火箭飞上太空！”
+@space2
+Last month, we watched a {launch} on TV.|上个月，我们在电视上看了一次发射。
+A Chinese {spaceship} flew to the {space station}.|一艘中国飞船飞向了空间站。
+I remember the first {moon landing} in 1969.|我还记得1969年第一次登月。
+That night, there was a {full moon}.|那天晚上是满月。
+Later, we saw a {shooting star}.|后来，我们看到了一颗流星。
+My grandson said, "Maybe an {alien} is coming!"|孙子说：“也许外星人要来了！”
+"The {universe} is very big," I said.|“宇宙非常大。”我说。
+@earth
+My grandson brought a {globe} to show me.|孙子拿来一个地球仪给我看。
+"Grandpa, this is the {equator}."|“爷爷，这是赤道。”
+"Most of the Earth is {ocean}."|“地球大部分是海洋。”
+"There are seven {continent=continents}."|“有七个大洲。”
+"Penguins live near the {South Pole}."|“企鹅生活在南极附近。”
+"This mountain is a {volcano}."|“这座山是一座火山。”
+"Hot {lava} comes out of it!"|“炽热的熔岩会从里面流出来！”
+@geo1
+Last autumn, we went to Zhangjiajie.|去年秋天，我们去了张家界。
+We walked through a big {forest}.|我们穿过一大片森林。
+We crossed a deep {valley}.|我们穿过一道深深的山谷。
+There was a beautiful {waterfall}.|那里有一道美丽的瀑布。
+We went inside a dark {cave}.|我们走进了一个黑暗的山洞。
+Then we took a cable car to the {peak}.|然后我们坐缆车上了山顶。
+Don't stand too close to the {cliff}!|别站得离悬崖太近！
+@geo2
+I grew up in a small {village}.|我在一个小村子里长大。
+It is in the {south} of Hunan {province}.|它在湖南省南部。
+A little {stream} ran past our house.|一条小溪从我家门前流过。
+Now I live in the {capital}, Beijing.|现在我住在首都北京。
+The {population} of Beijing is more than twenty million.|北京的人口超过两千万。
+But I still miss the {countryside}.|但我仍然想念乡下。
+@directions
+A tourist stopped me in the street.|一位游客在街上拦住了我。
+"Excuse me, {which way} is the station?"|“请问，车站往哪边走？”
+I looked at his {map}.|我看了看他的地图。
+"It's not {far}. Go straight and turn {left}."|“不远。直走然后左转。”
+"It's {opposite} the bank."|“在银行对面。”
+"It's {next to} a big supermarket."|“就在一家大超市旁边。”
+"Thank you for the {directions}!" he said.|“谢谢您指路！”他说。
+@countries1
+My family lives all over the world.|我的家人住在世界各地。
+My son works in {Canada}.|我儿子在加拿大工作。
+My daughter studies in the {UK}.|我女儿在英国读书。
+My nephew lives in {Australia}.|我外甥住在澳大利亚。
+My sister married a man from {France}.|我妹妹嫁给了一个法国人。
+They often travel to {Italy} and {Spain}.|他们经常去意大利和西班牙旅行。
+But my home is in {China}.|但我的家在中国。
+@countries2
+My wife and I want to see the world.|我和老伴想去看看世界。
+First, we want to see the pyramids in {Egypt}.|首先，我们想去看埃及的金字塔。
+Then we want to see the mountains in {Switzerland}.|然后我们想去看瑞士的山。
+In spring, the flowers in the {Netherlands} are beautiful.|春天，荷兰的花很美。
+In winter, we can see the northern lights in {Norway}.|冬天，我们能在挪威看到北极光。
+We also want to visit the islands of {Greece}.|我们还想去希腊的海岛。
+Our neighbor says {Vietnam} is cheap and the food is good.|邻居说越南消费低，东西好吃。
+@countries3
+My grandson wants to travel when he grows up.|我孙子想长大后去旅行。
+He wants to climb mountains in {Nepal}.|他想去尼泊尔爬山。
+He wants to ride a horse in {Mongolia}.|他想去蒙古骑马。
+He wants to see Angkor Wat in {Cambodia}.|他想去柬埔寨看吴哥窟。
+He wants to see the lions in {Kenya}.|他想去肯尼亚看狮子。
+He wants to visit Machu Picchu in {Peru}.|他想去秘鲁参观马丘比丘。
+And he wants to eat chocolate in {Belgium}!|他还想去比利时吃巧克力！
+@nationalities1
+At our English corner, people come from many countries.|在我们的英语角，有来自很多国家的人。
+"What's your {nationality}?" I ask.|“你是哪国人？”我问。
+Maria is {Spanish}.|玛丽亚是西班牙人。
+Tom is {British}.|汤姆是英国人。
+Kenji is {Japanese}.|健二是日本人。
+Anna is {German}.|安娜是德国人。
+They all love {Chinese} food!|他们都爱吃中国菜！
+@nationalities2
+My grandson studies at an {international} school.|我孙子在一所国际学校上学。
+His classes are in {English}.|他的课用英语上。
+He also learns {Mandarin}.|他还学普通话。
+His best friend is {Brazilian}.|他最好的朋友是巴西人。
+His teacher is {Irish}.|他的老师是爱尔兰人。
+His friend's mother is {Filipino}.|他朋友的妈妈是菲律宾人。
+Every {language} is welcome there!|那里欢迎每一种语言！
+@weather
+The weather has been strange this week.|这周天气很奇怪。
+On Monday, it was {sunny} and warm.|星期一，晴天，很暖和。
+On Tuesday, it was {cloudy} and {windy}.|星期二，多云，有风。
+On Wednesday, there was a big {storm}.|星期三，来了一场大暴风雨。
+We heard {thunder} all night.|我们整晚都听到雷声。
+On Thursday, it was very {foggy}.|星期四，雾很大。
+On Friday, we saw a {rainbow}!|星期五，我们看到了彩虹！
+@climate
+Our community wants to {protect} the {environment}.|我们社区想保护环境。
+Every family has to {sort the trash}.|每家每户都要垃圾分类。
+We {recycle} paper and bottles.|我们回收纸和瓶子。
+I don't use {plastic} bags.|我不用塑料袋。
+I take a {reusable bag} to the market.|我带一个可重复使用的袋子去市场。
+In winter, the {smog} is bad.|冬天雾霾很严重。
+{Global warming} is a big problem for our grandchildren.|全球变暖对孙辈们是个大问题。
+@rocks
+For my birthday, my husband gave me a gift.|我生日时，老伴送了我一份礼物。
+It was a {jade} bracelet.|那是一个玉镯子。
+My daughter wears a {pearl} necklace.|我女儿戴着珍珠项链。
+My granddaughter likes shiny {crystal=crystals}.|我孙女喜欢闪亮的水晶。
+My grandson collects every {pebble} from the river.|我孙子把河边的每块鹅卵石都收起来。
+Once, he found a {fossil} of a small fish!|有一次，他找到了一条小鱼的化石！
+Our kitchen table is made of {marble}.|我们的厨房桌子是大理石做的。

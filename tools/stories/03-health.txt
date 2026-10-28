@@ -1,0 +1,48 @@
+@illness
+Last winter, Grandpa Wang got sick.|去年冬天，王爷爷生病了。
+At first he just had a {cold}.|一开始他只是感冒。
+Then he had a {fever} of 39 degrees.|后来他发烧到了39度。
+He had a bad {cough} all night.|他整夜咳得厉害。
+He also had a terrible {headache}.|他还头疼得厉害。
+The doctor said, "I think it is the {flu}."|医生说：“我看是流感。”
+"Do you have an {allergy} to any medicine?"|“您对什么药过敏吗？”
+@visitdoctor
+Grandma Li made an {appointment} to see the doctor.|李奶奶预约了看医生。
+She sat in the {waiting room} for twenty minutes.|她在候诊室坐了二十分钟。
+The {nurse} took her temperature first.|护士先给她量了体温。
+"What are your {symptom=symptoms}?" the doctor asked.|“您有什么症状？”医生问。
+The doctor wrote a {prescription} for her.|医生给她开了处方。
+"Take one {tablet} twice a day."|“一天两次，每次一片。”
+"Are there any {side effect=side effects}?" she asked.|“有副作用吗？”她问。
+@hospital
+Grandpa fell in the street, and someone called an {ambulance}.|爷爷在街上摔倒了，有人叫了救护车。
+They took him to the {emergency} room.|他们把他送进了急诊室。
+The doctor said he needed a {scan}.|医生说他需要做个扫描检查。
+Then the {surgeon} came to see him.|然后外科医生来看他。
+The {operation} went very well.|手术很顺利。
+Now he is resting on the {ward}.|现在他在病房休息。
+We visit him every day during {visiting hours}.|我们每天在探视时间去看他。
+@dentist
+Grandma had a toothache, so she went to the dentist.|奶奶牙疼，就去看牙医。
+The {dentist} said, "Open wide, please."|牙医说：“请把嘴张大。”
+"You need a {filling} in this tooth."|“这颗牙需要补一下。”
+"Your {gum=gums} are a little red, too."|“您的牙龈也有点红。”
+"Use {floss} every day," he said.|“每天用牙线。”他说。
+After that, she went to the {optician} next door.|之后，她去了隔壁的眼镜店。
+She bought new {reading glasses}.|她买了一副新老花镜。
+@diet
+My doctor wants me to eat more {healthy} food.|医生希望我多吃健康的食物。
+I am on a low-salt {diet} now.|我现在在吃低盐饮食。
+I use less {salt} and less oil.|我少放盐，少放油。
+I drink a lot of {water} every day.|我每天喝很多水。
+I eat eggs, because they are full of {protein}.|我吃鸡蛋，因为鸡蛋富含蛋白质。
+Fruit gives me lots of {vitamin=vitamins}.|水果给我提供很多维生素。
+Good {nutrition} keeps me strong.|良好的营养让我身体结实。
+@wellbeing
+Aunt Wang is seventy, but she looks very {fit}.|王阿姨七十岁了，但看起来很健壮。
+She does {exercise} every morning.|她每天早上锻炼。
+She does {tai chi} in the park.|她在公园打太极。
+In the afternoon she likes {walking} by the river.|下午她喜欢在河边散步。
+She never has too much {stress}.|她从不让自己压力太大。
+She gets enough {sleep} every night.|她每晚都睡得足。
+Music always puts her in a good {mood}.|音乐总让她心情很好。
